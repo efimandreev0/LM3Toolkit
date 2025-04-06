@@ -1,0 +1,1424 @@
+[tp:0.03]What do you think of the hotel? We take[p]pride in the luxury and splendor it offers![/tp]
+[tp:0.03]Is something the matter?[tp:0.3] [/tp]I hope nothing[p]is making your stay here less than perfect...[pb]Our entire staff is devoted to providing you with[p]the ideal vacation experience![tp:0.3] [/tp]Heh heh heh...[/tp]
+[tp:0.03]It looks like you haven't checked in[p]yet.[tp:0.3] [/tp]Please make your way to the[p]front desk. It's right over there...[/tp]
+[tp:0.03]My apologies for the inconvenience, but the[p][clr:FFE98B]elevator[/clr] is temporarily out of service.[tp:0.3] [/tp][p]We should have it in tip-top shape soon![/tp]
+[tp:0.03]Please make yourself comfortable...[tp:0.3] [/tp]Perhaps[p]you'd like to sample our selection of beverages?[/tp]
+[tp:0.03]This hotel is so big, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]It's gorgeously[p]decorated too! We're so lucky to have[p]gotten an invitation to come here![tp:0.3] [/tp]Hee hee![/tp]
+[tp:0.03]Hhhhrrrrgggg![tp:0.3] [/tp][clr:FE7388]Princess Peach[/clr] definitely[p]didn't forget to pack anything...[/tp]
+[tp:0.03]Ah, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]What's up?[/tp]
+[tp:0.03]Ahhhhh! Oh no![/tp]
+[tp:0.03]My head's stuck! I can't get out![/tp]
+[tp:0.03]Ahhhhhhhhhhhhh![/tp]
+[tp:0.03]Welcome, guests, to [clr:FFE98B]The Last Resort[/clr]![tp:0.3] [/tp][p]Are you ready to check in?[/tp]
+[tp:0.03]Woof? (Time to rest?)[/tp]
+Welcome to [clr:FFE98B]The Last Resort[/clr], home of the[p]most memorable vacations ever had!
+[tp:0.03]Oh, [clr:98FC76]Luigi[/clr], where are you going?[tp:0.3] [/tp][p]Let's get checked in at the front desk.[/tp]
+[tp:0.03]Not a problem at all. Make yourself comfortable.[tp:0.3] [/tp][p]Please come see me when you're ready.[/tp]
+[tp:0.03]Guests![tp:0.3] [/tp]Welcome to [clr:FFE98B]The Last Resort[/clr]![/tp]
+[tp:0.03]My name is [clr:FA96FD]Hellen Gravely[/clr], and[p]I am the owner of this hotel.[/tp]
+[tp:0.03]I am absolutely delighted that you[p]decided to accept my invitation.[/tp]
+[tp:0.03]You all must be very tired. Come![p]Allow me to show you to your rooms.[/tp]
+[tp:0.03]Oh, no need to worry about your luggage![p]Our exceptional staff will take care of it for you...[/tp]
+[tp:0.03]Ha ha ha...[tp:0.3] [/tp]You're our VIPs, after all![/tp]
+[tp:0.03]We've prepared a first-rate experience[p]for you. All the trappings of luxury![/tp]
+[tp:0.03]Shall we get going?[/tp]
+[tp:0.03][clr:FE7388]Mario[/clr], [clr:98FC76]Luigi[/clr], and [clr:FE7388]Peach[/clr]'s rooms are over here.[/tp]
+[tp:0.03]We've prepared rooms for you [clr:FE7388]Toads[/clr] as well![/tp]
+[tp:0.03]I hope you enjoy your stay! I daresay you'll[p]remember it for the rest of your lives![tp:0.3] [/tp]Ha ha ha...[/tp]
+[tp:0.03]Well well well! If it isn't my MOST esteemed[p]VIP![tp:0.3] [/tp]I was just on my way to see you...[/tp]
+[tp:0.03]Is your room living up to your expectations?[tp:0.3] [/tp][p]Doesn't it SCREAM good taste?[/tp]
+[tp:0.03]Oh, I can barely contain myself.[tp:0.3] [/tp]You have no idea[p]how much I wanted you to accept my invitation![/tp]
+[tp:0.03]"Why is that?" I'm sure you're[p]wondering.[tp:0.3] [/tp]Ha ha ha... You see...[/tp]
+[tp:0.03]There is someone I truly adore![tp:0.3] [/tp][p]He's the inspiration for some of my[p]greatest ideas...[tp:0.3] [/tp]Like inviting you here![/tp]
+[tp:0.03]I'm such a huge fan of his![tp:0.3] [/tp]That's why it's so[p]wonderful that I get to introduce him to...[/tp]
+[tp:0.03]YOU![tp:0.3] [/tp]That's right, [clr:98FC76]Luigi[/clr]![/tp]
+[tp:0.03]I hope you're ready![/tp]
+[tp:0.03]Mwah ha ha! Surprise, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp][p]It's-a me,[tp:0.3] [/tp][clr:B996DC]King Boo[/clr]![/tp]
+[tp:0.03]That old coot had me locked up tight in his lab...[/tp]
+[tp:0.03]But guess what? I GOT OUT![tp:0.3] [/tp]The [clr:FA96FD]hotel[p]owner [/clr]here was just dying to meet me,[p]so she busted me out.[tp:0.3] [/tp]Pretty lucky, huh?[/tp]
+[tp:0.03]Anyway, I didn't think you'd actually show up[p]here.[tp:0.3] [/tp]I was ready though, just in case.[tp:0.3] [/tp][p]In fact, my vengeance is nearly complete![/tp]
+[tp:0.03]What do I mean by "vengeance"?[tp:0.3] [/tp]Glad you asked![/tp]
+[tp:0.03]I'm trapping you and everyone in your[p]little vacation party...[tp:0.1]in frames![/tp][/tp]
+[tp:0.03]Awww, there there, [clr:98FC76]Luigi[/clr]. It'll all be over soon.[tp:0.3] [/tp][p]It's time for a family reunion! BOO-YA![/tp]
+[tp:0.03]Mwah ha ha![tp:0.3] [/tp]Take THAT![/tp]
+[tp:0.03]Oh, and there's one more frame, of course.[tp:0.3] [/tp][p]I saved it especially for you![/tp]
+[tp:0.03]Stay right there and put on your best[p]terrified face, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]This is game over![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]! I told you that the [clr:FFE98B]elevator[/clr] is that[p]way![tp:0.3] [/tp]Why even consider using the stairs[p]when there is a perfectly good [clr:FFE98B]elevator[/clr]?[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], where do you think you're going?![tp:0.3] [/tp][p]We need to hurry up and get to my car![/tp]
+[tp:0.03]We passed it, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]That isn't the [clr:FFE98B]garage[/clr] door![/tp]
+[tp:0.03]You have to blind him with the [clr:5AFEFF]Strobulb[/clr]![tp:0.3] [/tp][p]Use it when you've got a clear shot![/tp]
+[tp:0.03]What are you doing, [clr:98FC76]Luigi[/clr]?[tp:0.3] [/tp]Head for the [clr:FFE98B]elevator[/clr]![/tp]
+[tp:0.03]Hey, [clr:98FC76]Luigi[/clr].[tp:0.3] [/tp]Take a look over there.[/tp]
+[tp:0.03]The [clr:FFE98B]elevator[/clr] will get us to the [clr:FFE98B]garage [/clr]in an[p]instant.[tp:0.3] [/tp]Let's hurry up before the ghosts find us![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], this isn't where we need to be right[p]now.[tp:0.3] [/tp]Our business is in the [clr:FFE98B]garage[/clr]![/tp]
+Install the Elevator Tracker
+[tp:0.03][clr:98FC76]Luigi[/clr], where are you heading off to?[tp:0.3] [/tp][p]Aren't you curious what he dropped?[/tp]
+[tp:0.03]Time is critical, [clr:98FC76]Luigi[/clr].[tp:0.3] [/tp]You should hurry[p]and get the [clr:5AFEFF]elevator tracker[/clr] installed![/tp]
+[tp:0.03]Ah![tp:0.3] [/tp]If it isn't [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]You are precisely the last[p]person I'd expect to find here.[/tp]
+[tp:0.03]Hold that thought—now isn't the time to[p]catch up. What matters is...you'll do nicely![/tp]
+[tp:0.03]Come on, [clr:98FC76]Luigi[/clr].[tp:0.3] [/tp]Get me out of here now![/tp]
+[tp:0.03]This hotel is filled to the brim with[p]ghosts![tp:0.3] [/tp]Let's make a run for it![/tp]
+[tp:0.03]What was that?[tp:0.3] [/tp]All of your[p]friends have been captured?![/tp]
+[tp:0.03]And you can't just abandon them here, you say?[/tp]
+[tp:0.03]You're the same as ever, I see.[tp:0.3] [/tp]A bit of a handful...[/tp]
+[tp:0.03]OK.[tp:0.3] [/tp]I'm not thrilled about it, but I,[tp:0.3] [/tp][p][clr:FE7388]Professor Elvin Gadd[/clr],[tp:0.3] [/tp]have an idea![/tp]
+[tp:0.03]First things first, [clr:98FC76]Luigi[/clr].[tp:0.3] [/tp]We have to get[p]to my car![tp:0.3] [/tp]Will you take me there?[/tp]
+[tp:0.03]Hey. The new [clr:5AFEFF]Poltergust G-00[/clr] you're wearing...[tp:0.3] [/tp][p]You took that out of my car, right?[/tp]
+[tp:0.03]We've got to get back to the[p]underground [clr:FFE98B]garage[/clr].[tp:0.3] [/tp]Let's go![/tp]
+[tp:0.03]Of all the...[tp:0.3] [/tp]Someone has removed[p]all the other [clr:5AFEFF]elevator buttons[/clr]![/tp]
+[tp:0.03]What's going on here?[/tp]
+[tp:0.03][tp:0.3]Hmm...[/tp] A mystery for later, I suppose.[tp:0.3] [/tp][p]Go ahead and give that [clr:FFE98B]B1[/clr] [clr:5AFEFF]button[/clr] a push.[/tp]
+[tp:0.03]It didn't seem like any of your friends[p]were trapped on [clr:FFE98B]2F[/clr] with me...[/tp]
+[tp:0.03]They must have been taken to one of the floors[p]higher up in the hotel. Which means...[tp:0.3] [/tp]Yeah,[p]we're going to need those [clr:5AFEFF]elevator buttons[/clr].[/tp]
+[tp:0.03]Ho ho![tp:0.3] [/tp]Those are definitely the [clr:5AFEFF]elevator buttons[/clr]![tp:0.3] [/tp][p]I never would've guessed a ghost had taken them![/tp]
+[tp:0.03]But...there are only two.[tp:0.3] [/tp]Maybe there are other[p]ghosts out there with the rest of the [clr:5AFEFF]buttons[/clr]?[/tp]
+[tp:0.03]No matter.[tp:0.3] [/tp]Let's go to my car.[tp:0.3] [/tp]I've got something [p]very interesting that I want to show you![/tp]
+[tp:0.03]Heh heh heh![tp:0.3] [/tp]Welcome to my [clr:FFE98B]lab[/clr]![/tp]
+[tp:0.03]This is another of my brilliant[p]inventions—a portable laboratory![p]It's sturdy, safe, and air conditioned![/tp]
+[tp:0.03]I always knew I'd need this one day.[p]Good thing I brought it along with me, right?[/tp]
+[tp:0.03]Hmm? You want to know what I'm doing in this[p]hotel?[tp:0.3] [/tp]It's a bit of a long story, but in short...[/tp]
+[tp:0.03]I was tricked.[/tp]
+[tp:0.03]I got an invitation from someone[p]claiming to own this hotel.[/tp]
+[tp:0.03]They said they had a precious collection of[p]ghosts, gathered from all over the world![/tp]
+[tp:0.03]No self-respecting ghost researcher would pass[p]up on such an appealing offer, obviously![/tp]
+[tp:0.03]I accepted their invitation, but when[p]I arrived...[tp:0.3] [/tp]The invitation was only a ruse![/tp]
+[tp:0.03]They captured me and took[p]my precious ghost collection![/tp]
+[tp:0.03]Uuugh![tp:0.3] [/tp]That includes all those ghosts you'd[p]worked so hard to catch for me before![/tp]
+[tp:0.03]Even [clr:B996DC]King Boo[/clr]![tp:0.3] [/tp]Losing him really got[p]under my skin![tp:0.3] [/tp]He's my favorite...[/tp]
+[tp:0.03]What?[tp:0.3] [/tp]They've released [clr:B996DC]King Boo[/clr]?![/tp]
+[tp:0.03]Ugh![tp:0.3] [/tp]That [clr:FA96FD]hotel owner[/clr]![tp:0.3] [/tp]What has she done?![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]You're our only hope! Against all odds,[p]without any hesitation, and at any cost...[/tp]
+[tp:0.03]get my ghost collection back![/tp]
+[tp:0.03]And speaking of ghost collections, why don't you[p]give me all of the ghosts you've captured so far![/tp]
+[tp:0.03]All right![tp:0.3] [/tp]Keep on catching those ghosts. [p]Oh, and be sure to come back to the [clr:FFE98B]lab[/clr]![/tp]
+[tp:0.03]I'll set up the [clr:FFE98B]gallery[/clr] so that you can[p]view the ghosts that you've captured![/tp]
+[tp:0.03]Hm?[tp:0.3] [/tp]What's with that look, [clr:98FC76]Luigi[/clr]?[p]Am I forgetting something important?[/tp]
+[tp:0.03]Oh.[tp:0.3] [/tp]Oh![tp:0.3] [/tp]That's right! I forgot about saving your[p]friends and family. Completely and totally forgot.[/tp]
+[tp:0.03]Regardless![tp:0.3] [/tp]To find ghosts and your[p]friends, you'll need to explore this hotel![/tp]
+[tp:0.03]To help you out, I'll give you one[p]of my greatest inventions yet![/tp]
+[tp:0.03]I call it...the [clr:5AFEFF]Virtual Boo[/clr]![tp:0.3] [/tp][clr:5AFEFF]VB[/clr] for short![/tp]
+[tp:0.03]It's a state-of-the-art virtual-reality device fitted[p]with a fancy red screen![tp:0.3] [/tp]Really cutting-edge stuff![p]And red is all the rage, you know?[/tp]
+[tp:0.03]Just wait until I finish the marketing materials[p]on this! It'll fly off the shelves![tp:0.3] [/tp]Heh heh heh![/tp]
+[tp:0.03]You can use the [clr:5AFEFF]VB[/clr] to communicate[p]with me at any time.[/tp]
+[tp:0.03]Hey, maybe we can test out the[p]communications system later...[/tp]
+[tp:0.03]Press {0} to look into the [clr:5AFEFF]VB[/clr].[tp:0.3] [/tp]It'll display your[p]current objective for you too. It's quite useful![/tp]
+[tp:0.03]Oh, and I have one more thing to give you.[/tp]
+[tp:0.03]The very first thing you need to do is install this[p][clr:5AFEFF]elevator tracker[/clr] inside the [clr:FFE98B]elevator[/clr] for me, OK?[/tp]
+[tp:0.03]As for what it is[tp:0.3].[/tp].[tp:0.3].[/tp] I'll tell you[p]later! Go on and get it installed![/tp]
+[tp:0.03]Head for the [clr:FFE98B]elevator[/clr]![tp:0.3] [/tp]I'm counting on you, [clr:98FC76]Luigi[/clr]![/tp]
+[tp:0.03]Hello, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]It seems like the[p]installation was a success![/tp]
+[tp:0.03]Now then. As to what that device[p]actually does...[tp:0.3] [/tp]Well, it extracts map[p]data about the floors from the [clr:FFE98B]elevator[/clr]![/tp]
+[tp:0.03]Then it takes all that data and displays[p]it on the monitor![tp:0.3] [/tp]Isn't that great?[/tp]
+[tp:0.03]Hey, why don't you take those [clr:5AFEFF]elevator buttons[/clr][p]you collected and insert them into the panel?[/tp]
+[tp:0.03]Now you're able to view the map of a new floor![/tp]
+[tp:0.03]There's another surprise, [clr:98FC76]Luigi[/clr].[tp:0.3] [/tp][p]That device links with the [clr:5AFEFF]Virtual Boo[/clr]![/tp]
+[tp:0.03]The map data is automatically sent to the [clr:5AFEFF]VB[/clr],[tp:0.3] [/tp][p]so you can view the map anywhere, anytime![/tp]
+[tp:0.03]If you open the [clr:FFA500]map[/clr] from the [clr:5AFEFF]VB[/clr] menu,[p]you can check out an even more detailed[p]map. Don't go forgetting about it, OK?[/tp]
+[tp:0.03]Let me break it down for you, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]The map[p]is super helpful for exploring new floors...[/tp]
+[tp:0.03]While you're exploring the hotel, you[p]should hunt down the [clr:5AFEFF]elevator buttons[/clr]...[/tp]
+[tp:0.03]Those [clr:5AFEFF]buttons[/clr] will let you reach new floors,[p]ripe for exploration![tp:0.3] [/tp]Oh, and you might find[p]your friends there.[tp:0.3] [/tp]Heh heh heh![/tp]
+[tp:0.03]One more thing before you go, [clr:98FC76]Luigi[/clr]. We need to do[p]a quick test of the [clr:5AFEFF]VB[/clr]'s communication system.[/tp]
+[tp:0.03]Open the [clr:5AFEFF]VB[/clr] with {0}, and select the [clr:FFA500]E. Gadd[p]Hotline[/clr]. I'm counting on you, [clr:98FC76]Luigi[/clr]![/tp]
+[tp:0.03]Woooof? (Comfortable with what you learned?)[/tp]
+[tp:0.03]Hey, [clr:98FC76]Luigi[/clr]! Look at that...[tp:0.3] [/tp]It's money, and lots[p]of it! Even with all the dangers here, I'm sure[p]we agree that money is still important![tp:0.3] [/tp][p]The ghosts don't seem interested in grabbing[p]it...[tp:0.3] [/tp]What's the saying? "You can't take it[p]with you"?[tp:0.3] [/tp]Well, I definitely want it anyway![p]Keep your eyes peeled, and grab as much as you[p]can![tp:0.3] [/tp]You know, while you're capturing ghosts[p]and saving your friends. Multitasking![/tp]
+[tp:0.12]...[/tp]
+[tp:0.03]Testing... Testing... One, two, three... [p]This is [clr:FE7388]E. Gadd[/clr], resident genius![p]Am I coming through loud and clear?[/tp]
+[tp:0.03]Fantastic![tp:0.3] [/tp]It appears that the [clr:5AFEFF]VB[/clr]'s communication[p]system is working perfectly![tp:0.3] [/tp]That means you can[p]use this to contact me anytime you need to![/tp]
+[tp:0.03]If you feel the need to talk to me, just do exactly[p]what you did for the test, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]I may be able[p]to offer some advice in a tough situation![/tp]
+[tp:0.03]Oh![tp:0.3] [/tp]You can also check out the log using the very[p]same system. Let me know if that's why you're[p]calling, and you'll be able to see your progress![/tp]
+[tp:0.03]OK! Testing my inventions is fun, but we[p]should get back to work.[tp:0.3] [/tp]And speaking[p]of work... I have a job for you![/tp]
+[tp:0.03]So you're able to take the elevator[p]up to [clr:FFE98B]5F [/clr]now, right?[tp:0.3] [/tp]I was actually[p]staying in a room on that floor...[/tp]
+[tp:0.03]There's a [clr:5AFEFF]briefcase[/clr] in my room.[tp:0.3] [/tp][p]Could you fetch it for me, [clr:98FC76]Luigi[/clr]?[/tp]
+[tp:0.03]My room number is...[tp:0.3] [/tp]Oh blast, what was it?[tp:0.3] [/tp][p]Eh, you've got a map. You'll figure it out![/tp]
+[tp:0.03]Good luck, [clr:98FC76]Luigi[/clr]! Try to come[p]back alive![tp:0.3] [/tp]Heh heh heh![/tp]
+Contact E. Gadd Using the Virtual Boo
+[tp:0.03][clr:98FC76]Luigi[/clr]! Where are you going?[tp:0.3] [/tp]We need to test out[p]the [clr:5AFEFF]VB[/clr]'s communication system! Go ahead and[p]open the [clr:5AFEFF]VB[/clr] with {0}, and select [clr:FFA500]E. Gadd Hotline[/clr].[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], I can't have you going off and exploring[p]without a fully tested communication system![tp:0.3] [/tp][p]Open the [clr:5AFEFF]VB[/clr] with {0} and select [clr:FFA500]E. Gadd Hotline[/clr].[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]! Hurry up and start the [clr:5AFEFF]VB[/clr] communication[p]test![tp:0.3] [/tp]You should try calling me. Press {0} to look[p]into the [clr:5AFEFF]VB[/clr], and then select [clr:FFA500]E. Gadd Hotline[/clr]![/tp]
+[tp:0.03]Ah, [clr:98FC76]Luigi[/clr].[tp:0.3] [/tp]I just remembered something[p]important I neglected to mention...[pb]That [clr:5AFEFF]Poltergust G-00[/clr] of yours has a new feature[p]that I like to call...[clr:5AFEFF]Suction Shot[/clr]! It'll work[p]as a weapon for you on your adventures![p]Use  to fire the rubber plunger—you can[p]stick it on to flat and smooth surfaces.[pb]And if you use the [clr:5AFEFF]Poltergust G-00[/clr] to suck up the[p]rope and then press , you can tug on objects[p]and pull off a powerful slam to break them![p]You should start shooting it at things right[p]away! Practice makes perfect, after all![pb]Oh, and don't forget to get my[p][clr:5AFEFF]briefcase[/clr], [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]Heh heh heh![/tp]
+[tp:0.03]Ooh, she's a hard one to catch![tp:0.3] [/tp]We'll have to[p]outwit her if we want to have any chance.[pb]That [clr:5AFEFF]briefcase[/clr] she swallowed is flat and sturdy...[tp:0.3] [/tp][p]Maybe you can grab on to it with a [clr:5AFEFF]Suction Shot[/clr]?[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]! Aim the [clr:5AFEFF]Suction Shot[/clr] at my [clr:5AFEFF]briefcase[/clr]![p]Once you've hit it, suck up the rope and then[p]start slamming with .[/tp]
+[tp:0.03]Heh heh heh![tp:0.3] [/tp]It seems that you've also acquired[p]a new [clr:5AFEFF]elevator button[/clr], along with my [clr:5AFEFF]briefcase[/clr]![pb]Well done, [clr:98FC76]Luigi[/clr]. Come on back to the [clr:FFE98B]lab[/clr]![/tp]
+[tp:0.03]Stop fooling around, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]Go to[p]my room and get my [clr:5AFEFF]briefcase[/clr]![pb]If you get turned around, you can always[p]check the map using the [clr:5AFEFF]VB[/clr].[tp:0.3] [/tp]But hurry![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], what's taking you so long?[tp:0.3] [/tp][p]Go to my room and get my [clr:5AFEFF]briefcase[/clr]![pb]If you can't find your way, use the [clr:5AFEFF]VB[/clr] map![/tp]
+[tp:0.03]Could you get a move on, [clr:98FC76]Luigi[/clr]?[tp:0.3] [/tp]You need to[p]get to my room and recover my [clr:5AFEFF]briefcase[/clr]![pb]You know where my room is, right?[p]Look closely at the [clr:5AFEFF]VB[/clr] map![/tp]
+[tp:0.03]Hey, [clr:98FC76]Luigi[/clr]! Sorry, I was busy and just got back[p]to my desk. Did I miss anything important?[p]What's the status on my [clr:5AFEFF]briefcase[/clr]?[p]WHAT?! A ghost maid took off with it?[p]That won't do...[tp:0.3] [/tp]No, that won't do at all![pb]Don't just stand there! Get after her![/tp]
+[tp:0.03]Don't waste your time searching every room and[p]looking in every little nook and cranny, [clr:98FC76]Luigi[/clr]![pb]Certain ghosts leave traces behind in areas[p]they've passed through. Use [clr:5AFEFF]Dark-Light [/clr]with ,[p]and check the walls and doors for clues![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], what are you doing?[tp:0.3] [/tp][p]Hurry up and come back to the [clr:FFE98B]lab[/clr]![/tp]
+[tp:0.03]Heh heh heh![tp:0.3] [/tp]I've caught you in my trap, [clr:98FC76]Luigi[/clr]![pb]Oh, don't worry![tp:0.3] [/tp]I'm just kidding![tp:0.3] [/tp]But I[p]am going to need you to stay locked up.[/tp]
+[tp:0.03]Why, you ask? Because I want you to use[p][clr:43D311]Gooigi[/clr] to try to escape from your cell![pb]You can activate [clr:43D311]Gooigi[/clr] with . [tp:0.3] [/tp][p]To recall him to his tank, press  twice.[/tp]
+[tp:0.03]You can summon [clr:43D311]Gooigi[/clr] from the [clr:5AFEFF]Poltergust G-00[/clr][p]by pressing .[tp:0.3] [/tp]Press  twice to send him back.[/tp]
+[tp:0.03][clr:43D311]Gooigi[/clr] can slip through tight[p]spaces, like grates or vents.[pb]His body is incredibly soft and malleable.[p]It's really quite amazing![tp:0.03] [/tp]Go on! See for yourself![/tp]
+[tp:0.03]There you go![tp:0.3] [/tp]He moves in basically the[p]same ways you do, so controlling him[p]shouldn't take much getting used to.[p]Oh, and that reminds me![tp:0.3] [/tp]Pressing  once[p][clr:43D311]Gooigi [/clr]is active will let you switch between[p]him and yourself. Remember that![/tp]
+[tp:0.03]Heh heh heh![tp:0.3] [/tp][clr:43D311]Gooigi[/clr] isn't even[p]remotely waterproof, [clr:98FC76]Luigi[/clr]![pb]If he gets wet at all, he'll melt and disappear![tp:0.3] [/tp][p]Be careful with him around anything wet.[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr],[tp:0.3] [/tp]there's something I'd like for you to try out...[pb]Walk [clr:43D311]Gooigi[/clr] directly to me![tp:0.3] [/tp]I know it seems[p]like a silly request, but humor me, all right?[tp:0.3] [/tp][p]And follow my directions exactly![/tp]
+[tp:0.03]Like I said before, you can switch between[p]yourself and [clr:43D311]Gooigi[/clr] by pressing .[pb]You can even do it while you're in the middle of[p]some other action, like using the [clr:5AFEFF]Poltergust G-00[/clr].[/tp]
+[tp:0.03]You can quickly swap between[p][clr:98FC76]Luigi [/clr]and [clr:43D311]Gooigi[/clr] by pressing .[pb]If you were in the middle of doing something,[tp:0.3] [/tp]like[p]pulling on an object or sucking something up,[tp:0.3] [/tp][p]that won't stop when you change characters![/tp]
+[tp:0.03]Heh heh heh![tp:0.3] [/tp]Well done, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]I feel[p]like I can let you run loose with [clr:43D311]Gooigi[/clr]![pb]All right! We're done with your training, at[p]least for now.[tp:0.3] [/tp]Let's go back to the [clr:FFE98B]lab[/clr].[/tp]
+Recover E. Gadd's Briefcase
+[tp:0.03]Ah, I remember![tp:0.3] [/tp][clr:98FC76]Luigi[/clr], I was staying in [clr:FFE98B]room 508[/clr]![pb]Use the [clr:5AFEFF]VB[/clr] to check where to go on the map;[p][clr:FFE98B]room 508 [/clr]is the one with the mark on it![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], where are you going?[tp:0.3] [/tp][p]Don't forget about my [clr:5AFEFF]briefcase[/clr]![/tp]
+Use Gooigi to Escape
+[tp:0.03]Welcome back, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp][p]My [clr:5AFEFF]briefcase[/clr], chop-chop![/tp]
+[tp:0.03]Heh heh heh![tp:0.3] [/tp]This! This is what I wanted![tp:0.3] [/tp][p]The time has come to use it in battle![/tp]
+[tp:0.03]I'm too old to be out catching ghosts by myself.[tp:0.3] [/tp][p]Rather than give up on my ghostly pursuits,[p]I thought I'd create a helper to take my place.[/tp]
+[tp:0.03]The latest invention from the brilliant mind[p]of [clr:FE7388]Professor E. Gadd[/clr]! I give you...[tp:0.3] [/tp][clr:43D311]Gooigi[/clr]![/tp]
+[tp:0.03]The development process was a real challenge,[p]to say the least. Fortunately, I had a little help[p]from [clr:98FC76]someone[/clr] to test the prototype![/tp]
+[tp:0.03]Hm?[tp:0.3] [/tp]How is this going to help?[tp:0.3] [/tp][p]Now, now. Take it easy.[/tp]
+[tp:0.03]Here, [clr:98FC76]Luigi[/clr]. I'm going to attach this to the[p][clr:5AFEFF]Poltergust G-00[/clr].[tp:0.3] [/tp]Turn around for me, would you?[/tp]
+[tp:0.03]OK! It's all set up![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], let's practice a bit.[tp:0.3] [/tp]Follow me outside![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], it looks like you're able to get to [clr:FFE98B]3F [/clr]now![pb]But before you head there, bring my[p][clr:5AFEFF]briefcase [/clr]back to the [clr:FFE98B]lab[/clr]! I need it![/tp]
+[tp:0.03]Hey! I asked you to come back to the [clr:FFE98B]lab[/clr]![tp:0.3] [/tp][p]I really would like my [clr:5AFEFF]briefcase[/clr]![/tp]
+[tp:0.03]Hey...[tp:0.3] [/tp]What are you doing, [clr:98FC76]Luigi[/clr]?[tp:0.3] [/tp]Hurry up[p]and get to [clr:FFE98B]5F[/clr]! My [clr:5AFEFF]briefcase[/clr] needs you![/tp]
+[tp:0.12]...[/tp]
+[tp:0.03]Nice work, [clr:98FC76]Luigi[/clr]! Very impressive, I must say![tp:0.3] [/tp][p]That reminds me of something I wanted to tell you.[/tp]
+[tp:0.03]I've been running the sensors in the[p][clr:FFE98B]lab[/clr], and they've detected the presence[p]of a mysterious building.[/tp]
+[tp:0.03]In fact, the ominous-looking tower[p]is very close to this very hotel![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], I know you really want to find all of your[p]missing friends, but if you want a break from[p]that, you could head over to the tower![/tp]
+[tp:0.03]It's probably crawling with ghosts[p]that you can catch.[tp:0.3] [/tp]Go on and test[p]your skills there![tp:0.3] [/tp]For science![/tp]
+[tp:0.03]I've made arrangements so that you can[p]access the tower from the [clr:FFE98B]lab[/clr]. Just select[p][clr:FFE98B]ScareScraper [/clr]in Multiplayer.[tp:0.3] [/tp]Have fun![/tp]
+[tp:0.03]Oh! Wait! I just remembered something else![tp:0.3] [/tp][p]You can check out[clr:FFE98B] ScreamPark[/clr] if you're feeling[p]a little bit lonely and want to have some fun.[/tp]
+[tp:0.03]Up to eight people can play and compete[p]with one another![tp:0.3] [/tp]Fun! Heh heh heh![/tp]
+[tp:0.03][tp:0.3]...[/tp]Oh right, you can get to a new floor now![/tp]
+[tp:0.03]Head to the [clr:FFE98B]elevator[/clr] and take it to [clr:FFE98B]3F[/clr]![/tp]
+[tp:0.03]Ta-da![tp:0.3] [/tp]Behold![tp:0.3] [/tp]This is your very[p]own personal assistant, [clr:43D311]Gooigi[/clr]![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]! Terrible news! The transfer system[p]is out of comission at the moment...[pb]Isn't it just your luck that something like this would[p]happen right when you needed it to...not happen?[pb]Anyway, you'll need to make your way back to[p]the [clr:FFE98B]lab[/clr] on foot. Good luck! See you soon![/tp]
+[tp:0.03]By the way, [clr:98FC76]Luigi[/clr],[tp:0.3] [/tp]here's a fun bit of trivia for you:[p]every time you go through a door, all of your[p]progress up to that point is saved. Automatically![p]But![tp:0.3] [/tp]It might not be if you move too quickly from[p]door to door to door to door to... You get the idea.[tp:0.3] [/tp][p]I'd say waiting...10 seconds should be enough![p]You know what they say: patience is a virtue![tp:0.3] [/tp][p]Keep up the good work![/tp]
+[tp:0.03]I hope [clr:43D311]Gooigi[/clr] has been very helpful for you, [clr:98FC76]Luigi[/clr]![pb]Don't forget that he can move through[p]tight spaces. Don't be afraid to use him![/tp]
+[tp:0.03]The [clr:5AFEFF]Strobulb[/clr] isn't working because his eyes[p]are protected! Do something about those[p]sunglasses, and then strobe him![/tp]
+[tp:0.03]The [clr:5AFEFF]Strobulb[/clr] isn't working because of[p]those sunglasses he's got on![tp:0.3] [/tp]I bet some[p]suction would pull them right off his face![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], that looks like the wrong [clr:5AFEFF]key[/clr].[tp:0.3] [/tp]You might[p]be able to use that [clr:5AFEFF]key[/clr] someplace else.[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], that [clr:5AFEFF]key[/clr] won't work![tp:0.3] [/tp]Without the right[p][clr:5AFEFF]key[/clr], you won't be able to get into that room...[/tp]
+[tp:0.03]Here's a neat trick to easily suck up[p]big ghosts...[tp:0.3] [/tp]Move around them after[p]you've hit them with the [clr:5AFEFF]Strobulb[/clr]![/tp]
+[tp:0.03]He was quite an aggressive one, wasn't he?[tp:0.3] [/tp][p]I'm surprised you were able to catch him![pb]He'll be a big help to my research, though![tp:0.3] [/tp][p]Keep up the good work, OK?[tp:0.3] [/tp]Heh heh heh![/tp]
+[tp:0.03]Going shopping, [clr:98FC76]Luigi[/clr]?[tp:0.3] [/tp]Now isn't really the best[p]time for that... Hurry up and get the [clr:5AFEFF]button[/clr]![/tp]
+Recover the Button from the Boss Ghost
+Explore the Hotel Shops
+[tp:0.03][clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]The elevator can take[p]you directly to [clr:FFE98B]Lobby 2F[/clr]![pb]You might as well head that[p]way and check it out, I say.[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], did you see that?[tp:0.3] [/tp]That [clr:FA96FD]security[p]guard [/clr]had an [clr:5AFEFF]elevator button[/clr]![pb]It looks like he went into the[p][clr:FFE98B]security office[/clr].[tp:0.3] [/tp]Follow him! Go![/tp]
+[tp:0.03]What you just saw were [clr:FA96FD]Spirit Balls[/clr]![tp:0.3] [/tp]Remember[p]those? Remember how they react when you hit[p]them with [clr:5AFEFF]Dark-Light[/clr]?[tp:0.3] [/tp]Oh, [clr:43D311]Gooigi[/clr] wasn't there...[p]For his sake, I'll remind you! If you use[p][clr:5AFEFF]Dark-Light [/clr]on suspicious areas,[tp:0.3] [/tp]you might[p]reveal [clr:FA96FD]Spirit Balls [/clr]that you can suck up![/tp]
+[tp:0.03]What are you waiting for?![tp:0.3] [/tp][p]Use [clr:43D311]Gooigi[/clr] to suck up the [clr:FA96FD]Spirit Balls[/clr]![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], you saw that [clr:FA96FD]security guard[/clr][p]with the [clr:5AFEFF]elevator button[/clr], right?[pb]It looks like he went into the[p][clr:FFE98B]security office[/clr].[tp:0.3] [/tp]Follow him![/tp]
+[tp:0.03]What are you doing, [clr:98FC76]Luigi[/clr]?[tp:0.3] [/tp]That [clr:FA96FD]security[p]guard[/clr] isn't gonna chase itself![/tp]
+[tp:0.03]My scientific instincts tell me that [clr:5AFEFF]key[p][/clr]you picked up doesn't work here.[p]Why don't you try a different room?[/tp]
+[tp:0.03]Hmm, this [clr:FFE98B]accessory shop[/clr] seems pretty[p]suspicious to me... Look around and see if[p]there's anything you can use that [clr:5AFEFF]key[/clr] with.[/tp]
+[tp:0.03]It'd be great to chase the [clr:FA96FD]security guard[p][/clr]into the [clr:FFE98B]security office[/clr], but it looks like you[p]won't be able to just stroll inside.[p]Maybe that [clr:5AFEFF]key[/clr] he dropped will open a[p]different way? The shape of the [clr:5AFEFF]key[p][/clr]could be a hint of some kind...[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], there don't seem to be any places where you[p]could use that [clr:5AFEFF]key[/clr] around here. Maybe your time[p]would be better spent searching elsewhere?[/tp]
+[tp:0.03]Looks like you can use that [clr:5AFEFF]key[/clr] in[p]this [clr:FFE98B]boutique[/clr].[tp:0.3] [/tp]You already know[p]exactly where to use it, don't you?[/tp]
+[tp:0.03]Hm, I see you've gotten your hands on another[p][clr:5AFEFF]key[/clr]. Where do you think we can use this one?[pb]The shape of the key could be a clue.[p]Don't forget to make use of [clr:43D311]Gooigi[/clr].[/tp]
+[tp:0.03]Water is [clr:43D311]Gooigi[/clr]'s greatest weakness![tp:0.3] [/tp][p]Don't let that water gun hit him![pb]Use your noggin, and think of a way to hit the[p]ghost with the [clr:5AFEFF]Strobulb[/clr] while dodging the water![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], now's no time to dawdle![p]Use [clr:43D311]Gooigi[/clr] to take on that ghost![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], are you sure you want to leave that[p][clr:FA96FD]security guard[/clr] alone for now?[tp:0.3] [/tp]He does[p]have an [clr:5AFEFF]elevator button[/clr], after all...[p]You should head back to [clr:FFE98B]3F[/clr]![/tp]
+[tp:0.03]Don't forget that you can aim the [clr:5AFEFF]Poltergust G-00[/clr][p]up and down using the motion controls, [clr:98FC76]Luigi[/clr]![pb]You'll definitely need to do this when[p]there's something above or below[p]you that you want to suck up![/tp]
+[tp:0.03]Don't tell me you've already forgotten your[p]training, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]I'm talking about pressing  while[p]trying to suck something up, of course![p]If you press  while you're sucking something up,[p]you can switch between [clr:98FC76]Luigi[/clr] and [clr:43D311]Gooigi[/clr].[p]Whoever was sucking something up will keep at it![p]In other words, you can both vacuum at[p]the same time![tp:0.3] [/tp]Heh heh heh![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], aren't you forgetting something a little[p]bit important?[tp:0.3] [/tp]Go collect the [clr:5AFEFF]elevator button[/clr]![/tp]
+[tp:0.03]You can't do it alone, [clr:98FC76]Luigi[/clr]. You need[p]more power![tp:0.3] [/tp]In situations like these,[p]you've got to work together![/tp]
+[tp:0.03]He's not letting go of his frying pan![tp:0.3] [/tp][p]If he's that attached to cooking, maybe[p]you should send some ingredients his way![/tp]
+[tp:0.03]There's so much smoke! How can you[p]see anything in that?![tp:0.3] [/tp]Can you use the[p][clr:5AFEFF]Poltergust G-00 [/clr]to clear things up a little?[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], you're doing a great job![tp:0.3] [/tp]Why don't[p]you make your way back to the [clr:FFE98B]lab[/clr], OK?[p]There's something I want to tell you.[tp:0.3] [/tp][p]See you soon![/tp]
+Recover the Button from the Mouse
+Explore the Restaurant Area on the Second Floor
+[tp:0.03]You're trying to defeat the mouse with the[p][clr:5AFEFF]Strobulb[/clr], but the little critter's too fast for you?[pb]There must be some way to stop the[p]mouse...[tp:0.3] [/tp]Perhaps you can lure it out[p]by offering it something it likes?[/tp]
+Check Out the Second Floor Again
+[tp:0.03][clr:98FC76]Luigi[/clr], there's something I want to talk to you[p]about.[tp:0.3] [/tp]Could you make your way back to the [clr:FFE98B]lab[/clr]?[/tp]
+[tp:0.03]The mouse might be in this room, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]You should[p]make full use of the [clr:5AFEFF]Suction Shot[/clr] here; move[p]everything you can, and find that mouse![/tp]
+[tp:0.03]The mouse must have gone into the other[p][clr:FFE98B]restroom[/clr], but the entrance won't open...[pb]Is there some way that [clr:43D311]Gooigi[/clr] could[p]sneak in there from this room?[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]The mouse is probably hiding out[p]in the [clr:FFE98B]restroom[/clr]! It's probably glowing too,[p]since it swallowed the [clr:5AFEFF]elevator button[/clr]...[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]Get the [clr:5AFEFF]elevator button[/clr] back from[p]that mouse! I don't think it got too far.[tp:0.3] [/tp][p]Try checking around the [clr:FFE98B]restaurant[/clr].[/tp]
+[tp:0.03]What are you doing, [clr:98FC76]Luigi[/clr]?[tp:0.3] [/tp]I'm certain the mouse[p]isn't there! You haven't given up on trying to catch[p]it, have you?[tp:0.3] [/tp]Of course you haven't...[p]Head in the direction that it ran off in![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], I don't know where that mouse is[p]heading, but I'm positive it went out into the[p][clr:FFE98B]hallway[/clr]! Search every corner of the [clr:FFE98B]hallway[/clr]![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]! Let's go hunt down that mouse![tp:0.3] [/tp][p]I think it ran into the [clr:FFE98B]restroom[/clr]![/tp]
+[tp:0.03]That mouse couldn't have gone very far, [tp:0.03][clr:98FC76]Luigi[/clr][/tp]![p]I doubt it escaped to an entirely different floor.[tp:0.3] [/tp][p]Let's head back to [clr:FFE98B]2F[/clr]![/tp]
+[tp:0.03]Oh, [clr:98FC76]Luigi[/clr]! You're finally back, eh?[tp:0.3] [/tp][p]You shouldn't keep an old man waiting, y'know.[/tp]
+[tp:0.03]I've been busy down here![p]This [clr:FFE98B]lab [/clr]is almost fully operational.[/tp]
+[tp:0.03]By the way, [clr:98FC76]Luigi[/clr]...[tp:0.3] [/tp]You must be getting pretty[p]good at exploring the hotel, am I right?[tp:0.3] [/tp]Have you[p]been sucking up stuff with the [clr:5AFEFF]Poltergust G-00[/clr]?[/tp]
+[tp:0.03]Your pockets must be fit to bursting with[p]all the money you've picked up out there! [/tp]
+[tp:0.03]Fret not. I have the perfect solution[p]to your cumbersome currency[p]conundrum...[tp:0.3] [/tp]Just give it all to me![/tp]
+[tp:0.03]Drumroll, please! I'm proud to announce...[/tp]
+[tp:0.03][clr:FE7388]Professor E. Gadd[/clr]'s [clr:FFE98B]Shopping Network[/clr] is now[p]open for business right here in the [clr:FFE98B]lab[/clr]! Ta-daaaa![/tp]
+[tp:0.03]I've stocked some rather useful items.[tp:0.3] [/tp][p]They're all yours...for a modest fee![tp:0.3] [/tp]Heh heh heh![/tp]
+[tp:0.03]To celebrate the shop's grand opening, just[p]this once, I’m giving away a free [clr:5AFEFF]Gold Bone[/clr].[/tp]
+[tp:0.03]Go on, [clr:98FC76]Luigi[/clr].[tp:0.3] [/tp]Just select the [clr:5AFEFF]Gold Bone[/clr] to claim it.[/tp]
+[tp:0.03][clr:5AFEFF]Gold Bones[/clr] are incredible items that give[p]you a second wind if your health runs out.[/tp]
+[tp:0.03]You'd be wise to keep a few on hand... So if you[p]want more, you'll have to buy them![tp:0.3] [/tp]Heh heh heh![/tp]
+[tp:0.03]I've got other items in stock, so[p]feel free to browse![tp:0.3] [/tp]Heh heh heh![/tp]
+[tp:0.03]Oh! I almost forgot![tp:0.3] [/tp]I have one other[p]matter to address while you're here.[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], could you turn around for a moment?[p]I need to adjust your [clr:5AFEFF]Poltergust G-00[/clr]...[/tp]
+[tp:0.03]...Annnnd done![tp:0.3] [/tp]I just added a new[p]feature to the [clr:5AFEFF]Poltergust G-00[/clr]![/tp]
+[tp:0.03]My research indicates that [clr:B996DC]Boos [/clr]are[p]hiding out in this hotel. I just added a[p]feature to help you track them down![tp:0.3] [/tp][p]Don't worry about the details—I'll fill you in later.[/tp]
+[tp:0.03]Well then! That’s it from me, [clr:98FC76]Luigi[/clr]. Get back[p]out there and keep exploring the hotel![/tp]
+[tp:0.03]Hey, it looks like you've stumbled[p]across a [clr:B996DC]Boo[/clr] already![/tp]
+[tp:0.03]That's a sign that indicates there's a[p][clr:B996DC]Boo[/clr] nearby![tp:0.3] [/tp]Let me explain in more[p]detail.[tp:0.3] [/tp]Where are those note cards...[/tp]
+[tp:0.03]You see, [clr:43D311]Gooigi[/clr]'s body is made of a material I've[p]dubbed "[clr:5AFEFF]Goo[/clr]."[tp:0.3] [/tp][clr:5AFEFF]Goo[/clr] reacts to the frequency emitted[p]by [clr:B996DC]Boos[/clr]. So if there's a [clr:B996DC]Boo[/clr] hiding nearby...[p]the [clr:5AFEFF]Goo[/clr] will vibrate to indicate this![/tp]
+[tp:0.03]The closer you get to a [clr:B996DC]Boo[/clr]'s location, the[p]stronger the vibration will be. You'll definitely[p]be able to tell when you're really close![/tp]
+[tp:0.03]Did that all make sense, [clr:98FC76]Luigi[/clr]?[tp:0.3] [/tp]A strong[p]vibration means a [clr:B996DC]Boo[/clr] is nearby![pb]OK! Get out there and catch a lot of [clr:B996DC]Boos[/clr]! I'll start[p]thinking about the best way to organize them...[/tp]
+Explore the Great Stage
+Rescue the Trapped Toad
+[tp:0.03][clr:98FC76]Luigi[/clr]? Are you leaving your friends behind?[tp:0.3] [/tp][p]Wow.[tp:0.3] [/tp]I mean...I didn't expect that from you.[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]! You've managed to find one of your[p]friends! How many does that leave, though?[pb]I see... Two [clr:FE7388]Toads[/clr] and [clr:FE7388]Princess Peach[/clr].[tp:0.3] [/tp][p]Oh! And your [clr:FE7388]big brother[/clr] too! He's still captured.[pb]Seems like there's a bit more work to do, wouldn't[p]you say?[tp:0.3] [/tp]Well, good luck![tp:0.3] [/tp]Heh heh heh![/tp]
+[tp:0.03]It looks like you rescued one of your friends, [clr:98FC76]Luigi[/clr]![pb]It'd probably be best if your friends[p]stayed with me here in the [clr:FFE98B]lab[/clr]...[pb]You should take [clr:FE7388]Toad[/clr] to the [clr:FFE98B]elevator[/clr].[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]It doesn't matter how good you are at[p]running away—you won't beat him like that![pb]Try throwing his bombs back at him![tp:0.3] [/tp][p]That's your chance to turn the tables![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], don't forget about the [clr:5AFEFF]elevator button[/clr]![/tp]
+[tp:0.03]Hey, [clr:98FC76]Luigi[/clr]! If you find yourself needing[p]to return to the [clr:FFE98B]lab[/clr] quickly, I've got[p]the perfect solution for you![p]I've streamlined a transfer system just for you![p]All you have to do is access the [clr:5AFEFF]VB[/clr] and select[p][clr:FFA500]Lab[/clr], and we'll be face-to-face in an instant![p]The system goes both ways too![tp:0.3] [/tp]When you're[p]ready to get back to your adventures, the system[p]will return you to the same place you left![p]And that's all! Keep the transfer system in mind[p]while you're out there exploring![/tp]
+Explore the Castle
+Defeat the King of 6F and Recover the Button
+[tp:0.03]Those spikes are sharp and dangerous.[p]Best not to touch them![pb]...Unless your body is extremely soft,[p]if you catch my drift.[tp:0.3] [/tp]Heh heh heh![/tp]
+[tp:0.03]Be careful, [clr:98FC76]Luigi[/clr]! Those arrows aren't for show—[p]they'll leave you feeling like a well-used pincushion![pb]You know, if your body was less solid and more...[tp:0.3][p][/tp]goo-like, I bet they'd pass right through.[/tp]
+[tp:0.03]It looks like you can't go any farther[p]with that spiderweb in the way.[tp:0.3] [/tp][p]There's only one solution.[tp:0.3] [/tp]Burn it![p]I'm not joking, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]Is there a flame nearby and[p]something to carry it in?[tp:0.3] [/tp]Look around you![/tp]
+[tp:0.03]If you want to protect yourself from arrows, you'll[p]need to find something to block them! But I don't[p]see anything obvious for you to use...[p]Hey, maybe there's something hidden that you[p]can use? Time to do what we always do to find[p]hidden things! You know what I mean![/tp]
+[tp:0.03]Hey, [clr:98FC76]Luigi[/clr]! Are you looking for something in[p]here to protect yourself from the arrows?[tp:0.3] [/tp][p]I don't think you'll find anything like that here...[p]In my opinion, you should get yourself[p]back to the [clr:FFE98B]cart storage area[/clr]![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], he's completely covered in thick armor![p]Unless you can get that armor off him,[p]you can't possibly win this fight![p]Watch for him to lower his guard, then hit him with[p]the [clr:5AFEFF]Strobulb[/clr] to stop him dead in his tracks![tp:0.3] [/tp]Once[p]he's stunned, hit him with everything you've got![/tp]
+[tp:0.03]Lure him in and wait until you see an[p]opening in his guard. Once he's vulnerable...[tp:0.3] [/tp][p]Well, you know what you need to do![/tp]
+[tp:0.03]Oooh, that ghost is using his shield[p]to block your [clr:5AFEFF]Strobulb[/clr]. That's clever...[pb]But two heads are better than one![tp:0.3] [/tp]Use your[p][clr:5AFEFF]Suction Shot[/clr] to get that shield out of the way![/tp]
+Explore the Garden Suites
+Recover the Elevator Button Stolen by the Plant
+[tp:0.03]It looks like those spiky roots are really getting[p]in the way...[tp:0.3] [/tp]Maybe if you got to the..[tp:0.15].[/tp]root..[tp:0.15].[/tp]of the[p]problem, you could deal with them![p]Heh heh heh...[tp:0.3] [/tp]Heh heh...[pb]Sorry. What I mean is, check out the base of the[p]roots. I think they'll dry up if you pull from there.[p]You just need to expose the base, first![/tp]
+[tp:0.03]Hey, [clr:98FC76]Luigi[/clr]! Did you notice that the root of the plant[p]is sticking into the toilet?[tp:0.3] [/tp]That seems suspicious...[pb]Maybe if you slam something into the toilet, you[p]could break it open and reveal a root to yank on?[tp:0.3] [/tp][p]That's my scientific hypothesis, anyway...[/tp]
+[tp:0.03]Cut the vine with the [clr:5AFEFF]saw[/clr]![p]Your partner can save you![/tp]
+[tp:0.03]Hey, [clr:98FC76]Luigi[/clr]! Here's a fun fact for you![p]Did you know that mushrooms are bouncy?[pb]Why don't you use them to reach[p]high places? Go on—give it a try![/tp]
+[tp:0.03]What's wrong, [clr:98FC76]Luigi[/clr]? Stumped now that you[p]can't keep going up? Well, obviously you...[pb]You know what? I haven't got a clue,[p]either. Maybe you should take a look[p]around the [clr:FFE98B]Mushroom Suite[/clr]?[/tp]
+[tp:0.03]That giant plant has nabbed the [clr:5AFEFF]elevator button[/clr]![p][clr:98FC76]Luigi[/clr], is there any way you can force it open?[tp:0.3] [/tp][p]Maybe you could try pulling it from both sides?[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], where are you going? We finally[p]made it to the top! That giant plant has a[p][clr:5AFEFF]button[/clr]![tp:0.3] [/tp]Go and take it back![/tp]
+[tp:0.03]That's one nasty potted plant![tp:0.3] [/tp][p]Maybe you can get it to chomp down on[p]something to stop it from moving?[p]Pull that off and I bet you could cut[p]its stem with the [clr:5AFEFF]saw[/clr]![/tp]
+[tp:0.03]That giant plant in the [clr:FFE98B]Garden Suites[/clr] still has that [p]precious [clr:5AFEFF]elevator button[/clr] in its grasp... Come on,[p][clr:98FC76]Luigi[/clr]! Let's go back to [clr:FFE98B]7F[/clr] and get that [clr:5AFEFF]button[/clr] back![/tp]
+Explore Paranormal Productions
+Find the Director's Megaphone
+Help the Director Shoot His Film
+[tp:0.03][clr:98FC76]Luigi[/clr], you want to be the cameraman?[tp:0.3] [/tp][p]Then who is going to be the actor?[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], don't you have a perfectly good[p]photogenic subject with you?[tp:0.3] [/tp]Bring out[p][clr:43D311]Gooigi [/clr]when you peek into the camera![/tp]
+[tp:0.03]What? You're going to be the movie star?![tp:0.3] [/tp][p]That's a good one![tp:0.3] [/tp]Heh heh heh![pb]Oh, you're serious![tp:0.3] [/tp]Well, I guess you have to do[p]what it takes to get that [clr:5AFEFF]button[/clr] back![pb]Go on over to the director![/tp]
+[tp:0.03]There are lots of movie sets on this floor,[p][clr:98FC76]Luigi[/clr]...[tp:0.3] [/tp]I bet the view from the camera[p]makes them look even more realistic.[p]You should take a look and see if I'm right![/tp]
+[tp:0.03]What's an artist without a brush? A chef without[p]a knife? A dog without a bag of trash?![tp:0.3] [/tp]Nothing![pb]Without my [clr:5AFEFF]megaphone[/clr], I'm nothing too![tp:0.3] [/tp][p]No...[tp:0.3] [/tp]I'm less than nothing![/tp]
+[tp:0.03]My art![tp:0.3] [/tp]Oh how my art suffers![pb]Do not slander the title "director" by[p]applying it to me! Without my [clr:5AFEFF]megaphone[/clr],[p]I am unworthy of carrying such a name![/tp]
+[tp:0.03]Ah! A container to hold my tears?[tp:0.3] [/tp]I could fill it to[p]the brim and then some! But it is not to be...[p]My tears are best suited to fall upon the ground.[p]Go![tp:0.3] [/tp]Fill that container with some other[p]liquid—consider not the tears I shed![/tp]
+[tp:0.03]These tools, they bore me to my very SOUL![tp:0.3] [/tp][p]Throw them into an abyss, for all I care![pb]Ooooh ho ho ho...[/tp]
+[tp:0.03]My dreams are dried up...withered[p]and blown away as dust in the wind.[pb]Take that water and use it for something good,[p]like a gift to young life waiting to be moistened![/tp]
+[tp:0.03]The fire within my soul has been[p]extinguished...[tp:0.3] [/tp]Much like that torch...[/tp]
+[tp:0.03]My dreams are gone! The fire is gone![pb]Ooooh ho ho ho![tp:0.3] [/tp]Isn't there a way to[p]reignite that passionate fire once more?![/tp]
+[tp:0.03]Oh! Oh![tp:0.3] [/tp]That burning flame! It roars like[p]the passion of a true artist![pb]Let that fiery passion burn a path for you![p]Only then will the muse be sated![/tp]
+[tp:0.03]Ah, the sound of clapboards echoing[p]throughout the studio...[tp:0.3] [/tp]Reminds me of days[p]when performers bustled about, full of life![p]But now I am a useless shell of a director![tp:0.3] [/tp][p]I have no use for that.[tp:0.3] [/tp]Begone from my[p]sight, clapboard! Your hinges offend me![/tp]
+[tp:0.03]Oooooh ho ho ho![tp:0.3] [/tp]This was my glory![tp:0.3] [/tp][p]I was no stranger to directing's highest honors![pb]Now, I just silently gaze at it...[tp:0.3] [/tp]A trivial trophy...[/tp]
+[tp:0.03]And...action![/tp]
+[tp:0.03]OK, you![tp:0.3] [/tp]When the [clr:FA96FD]Kaiju[/clr] spits out the ball,[p]you have to blow it right back![/tp]
+[tp:0.03]More power! I want to feel more[p]power from you![tp:0.3] [/tp]I want twice the power![/tp]
+[tp:0.03]You can't achieve a great performance alone![tp:0.3] [/tp][p]Get the supporting actor out! Now![/tp]
+[tp:0.03]Excellent! Excellent![tp:0.3] [/tp]Keep it up![/tp]
+[tp:0.03]Now is your chance to achieve stardom![/tp]
+[tp:0.03]Now this...[tp:0.3] [/tp]Oooh THIS is art...[/tp]
+[tp:0.03]Excellent work, you two![tp:0.3] [/tp]My gut tells[p]me this is going to be a masterpiece![/tp]
+[tp:0.03]CUT![/tp]
+[tp:0.03]YOU![tp:0.3] [/tp]Wait a second![tp:0.3] [/tp]Hold it right there![/tp]
+[tp:0.03]I didn't notice until now, but your face...[p]You have some nice features![/tp]
+[tp:0.03]And your build...[tp:0.3] [/tp]Not bad. Not bad at all![/tp]
+[tp:0.03]I see all the makings of a star![tp:0.3] [/tp]Ahhh.[tp:0.3] [/tp]My creativity[p]is shaking off all the dust and surging to life![/tp]
+[tp:0.03]Come, come! Let's start shooting![tp:0.3] [/tp]Where's my[p]crew?![tp:0.3] [/tp]Places, everyone! Take your places![/tp]
+[tp:0.03]The tragedy.[tp:0.3] [/tp]Oooooh ho ho ho! Is this my end?[p]Is this what I, [clr:FA96FD]Morty[/clr],[tp:0.3] [/tp]director of the finest films,[tp:0.3] [/tp][p]am destined for? How could I lose it...[/tp]
+[tp:0.03]I am a puny, worthless movie director...[tp:0.3] [/tp]That's all...[/tp]
+[tp:0.03]Even the sparkle from this beautiful[p][clr:5AFEFF]button[/clr] is now nothing but a dull hue...[/tp]
+[tp:0.03]AHHHHH![tp:0.3] [/tp]My bright red [clr:5AFEFF]megaphone[/clr]![tp:0.3] [/tp][p]Where art thou?![/tp]
+[tp:0.03]I would give anything to be able to hold[p]my dear, sweet [clr:5AFEFF]megaphone[/clr] again...[/tp]
+[tp:0.03]What's wrong?! Don't you want to be a star?![tp:0.3] [/tp][p]Put some FEELING into it![tp:0.3] [/tp]Give me your all![/tp]
+[tp:0.03]Hey, that TV looks a lot like one of my[p]inventions...[tp:0.3] [/tp]Maybe it works in a similar way?[pb]Check it out, [clr:98FC76]Luigi[/clr]! Get up close! Something[p]interesting might happen, you know![tp:0.3] [/tp]Heh heh heh![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], it seems like the director ghost somehow lost[p]his prized [clr:5AFEFF]megaphone[/clr]. It might be somewhere on[p]this floor, so why not help him out by looking?[/tp]
+[tp:0.03]Did you see that, [clr:98FC76]Luigi[/clr]?[tp:0.3] [/tp][p]The [clr:5AFEFF]megaphone [/clr]is caught in some spiderwebs![pb]You could probably get it by burning away the[p]webs, but you'd need some fire for that...[/tp]
+[tp:0.03]Hm... It looks like a plant has[p]sprouted on this set. Do you see it?[pb][clr:98FC76]Luigi[/clr], you of all people must have a green thumb.[tp:0.3] [/tp][p]Why don't you give that little plant some water?[/tp]
+[tp:0.03]Hey, [clr:98FC76]Luigi[/clr]! I bet you didn't think you'd be drawing[p]water from a well when you got up today, huh?[tp:0.3] [/tp][p]What're you going to do with it?[p]It's a scientific fact that plants love water. If you[p]find one, maybe you could share a little water?[/tp]
+[tp:0.03]Hey, you found a torch! Set that on fire, and[p]those spiderwebs won't stand a chance![p]Then you'll be able to grab the [clr:5AFEFF]megaphone[/clr].[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], I don't think you'll find anything[p]on this floor. Make your way back to [clr:FFE98B]8F[/clr]![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]! Remember, if you ever find yourself[p]in a confusing situation, you can always[p]call me on the [clr:FFA500]E. Gadd Hotline [/clr]for help![/tp]
+[tp:0.03]Oh ho, at last! My masterpiece is complete![pb]Filled with gripping action, dripping with[p]emotion...[tp:0.3] [/tp]Oh, and the suspense! It has it all![pb]Feast your eyes on THIS![tp:0.3] [/tp]If it is not the very[p]definition of true art, I do not know what is![/tp]
+[tp:0.03]My film is almost complete. Almost![tp:0.3] [/tp][p]Do not disturb me now. The editing process[p]requires my absolute attention![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], look![tp:0.3] [/tp]That must be the [clr:5AFEFF]megaphone[/clr]![p]Looks like it's trapped in some spiderwebs![tp:0.3] [/tp][p]Those must be hearty webs...[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], you might be able to free that [clr:5AFEFF]megaphone[/clr][p]if you burn away the spiderwebs.[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], there's fire on this set![tp:0.3] [/tp]Do you think you[p]could use the fire to burn the spiderwebs?[p]Cause I do! In fact, I'm sure of it![p]Now all you need is something to carry the[p]flame with you to another room...[/tp]
+[tp:0.03]See that, [clr:98FC76]Luigi[/clr]?[tp:0.3] [/tp]There's a torch![tp:0.3] [/tp][p]Light that, and you can use it to[p]carry fire around![p]Think of a way to climb up that tower so you[p]can get that torch![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], there's a well![tp:0.3] [/tp]If you had a bucket,[p]you could carry water around with you.[pb]Maybe if you watered that budding plant, it'd grow[p]and become strong enough for you to climb... [p]How amazing would that be?[/tp]
+[tp:0.03]It looks like that [clr:FA96FD]Polterkitty[/clr] went through[p]the floor and got away. How about checking[p]the floor below this one, [clr:98FC76]Luigi[/clr]?[/tp]
+[tp:0.03]Did you lose track of [clr:FA96FD]Polterkitty[/clr], [clr:98FC76]Luigi[/clr]?[tp:0.3] [/tp][p]Try using [clr:5AFEFF]Dark-Light[/clr], if that's the case![pb]Ghosts can leave traces of themselves[p]in areas they've been.[tp:0.3] [/tp]Shine [clr:5AFEFF]Dark-Light[p][/clr]around you, and keep your eyes open![/tp]
+Follow Polterkitty and Get the Button
+[tp:0.03]Did collecting all that money break your[p]concentration, [clr:98FC76]Luigi[/clr]?[tp:0.3] [/tp]You haven't forgotten[p]about that [clr:FA96FD]Polterkitty[/clr], have you?[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], remember how that [clr:FA96FD]Polterkitty[/clr] went[p]through the floor in [clr:FFE98B]Paranormal Productions[/clr]?[pb]That's why I think the floor right below the[p][clr:FFE98B]movie studio[/clr] is worth checking out![/tp]
+[tp:0.03]I'm not getting any indication[p]of [clr:FA96FD]Polterkitty[/clr]'s presence here.[pb]Maybe you should check the map to get[p]an idea of [clr:FA96FD]Polterkitty[/clr]'s whereabouts![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], don't forget about the [clr:5AFEFF]elevator button[/clr]![/tp]
+[tp:0.03]That trash can has some serious attitude—[p]I don't see how you can hit it with [clr:5AFEFF]Dark-Light[/clr]![pb][clr:98FC76]Luigi[/clr], try doing something to knock it out![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]Use your [clr:5AFEFF]Suction Shot [/clr]on the trash can, and[p]then suck up the rope and slam it to make it dizzy![p]Once it's dizzy, hit it with [clr:5AFEFF]Dark-Light[/clr]! Quickly![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], what are you doing flailing around[p]all by yourself like that?![tp:0.3] [/tp]You've got to[p]learn to rely on [clr:43D311]Gooigi[/clr]'s help![/tp]
+[tp:0.03]When [clr:FA96FD]Polterkitty[/clr] approaches, that's your[p]chance! Be patient, wait for the right moment[p]to use the [clr:5AFEFF]Strobulb[/clr], and go for it![/tp]
+[tp:0.03]Hmm... [clr:FA96FD]Polterkitty[/clr] disappeared through the[p]floor?[tp:0.3] [/tp]Sounds like it's time to bust out the [clr:5AFEFF]VB[/clr]![pb]Use the [clr:5AFEFF]VB[/clr] map and think about how the[p]floors of the hotel are connected. I bet you[p]can figure out which room [clr:FA96FD]Polterkitty[/clr] ran to![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], [clr:FA96FD]Polterkitty[/clr] must be somewhere[p]on this floor! You should be able to use[p][clr:5AFEFF]Dark-Light[/clr] to figure out where it went![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]The [clr:FA96FD]Polterkitty[/clr] is hiding in the[p]bathtub![tp:0.3] [/tp]Can you get it out of there?[p]Find a way to get rid of the watermelons![tp:0.3] [/tp][p]Once they're gone, maybe you can fill the bathtub?[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]![tp:0.3] [/tp][clr:FA96FD]Polterkitty[/clr] is in the [clr:FFE98B]Ivy Bathroom[/clr]![tp:0.3] [/tp][p]Let's head back that way! Quickly![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], [clr:FA96FD]Polterkitty[/clr] couldn't have gotten far.[p]It must still be somewhere in [clr:FFE98B]Paranormal[p]Productions[/clr].[tp:0.3] [/tp]Head on back to [clr:FFE98B]8F[/clr]![/tp]
+[tp:0.03]Hmmm.[tp:0.3] [/tp]I think you ended up in the wrong[p]place, [clr:98FC76]Luigi[/clr]. [clr:FA96FD]Polterkitty[/clr] went down through[p]the floor of [clr:FFE98B]Paranormal Productions[/clr], right?[p]Maybe you should check the floor below that one?[/tp]
+Explore the Museum
+Rescue the Trapped Toad
+[tp:0.03]Hrm... If only there was something other[p]than the egg for it to chew on.[tp:0.3] [/tp]That would[p]give you just the opportunity you need.[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]! I have an idea that just might work![tp:0.3] [/tp]I feel a[p]little bad suggesting this, but how about letting it[p]chew on [clr:43D311]Gooigi[/clr] a bit?[tp:0.3] [/tp]He'll be fine, I'm sure![p]While it's busy chewing on [clr:43D311]Gooigi[/clr],[p]you should shoot an egg at it![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]? Are you leaving your friends behind?[tp:0.3] [/tp][p]Wow.[tp:0.3] [/tp]I mean...I didn't expect that. That's cold...[/tp]
+[tp:0.03]Ah, you've managed to save another [clr:FE7388]Toad[/clr]![pb]Excellent![tp:0.3] [/tp]Show [clr:FE7388]Toad[/clr] to the [clr:FFE98B]elevator[/clr], and I'll make[p]sure he stays safe and sound in the [clr:FFE98B]lab[/clr]![/tp]
+[tp:0.03]Now then, [clr:98FC76]Luigi[/clr].[tp:0.3] [/tp]You still need to find...[pb]one more [clr:FE7388]Toad[/clr], [clr:FE7388]Princess Peach[/clr], and [clr:FE7388]Mario[/clr]![pb]We're halfway there.[tp:0.3] [/tp]Good luck.[tp:0.3] [/tp]Heh heh heh![/tp]
+Explore the Boilerworks
+Catch and Defeat the Mechanic Ghost
+Recover the Button
+[tp:0.03]You've gotten yourself into a real mess there, [clr:98FC76]Luigi[/clr].[pb]Good news, though. The [clr:5AFEFF]Poltergust G-00[/clr] has[p]been tested in depths up to...I forget.[tp:0.3] [/tp][p]Really deep.[tp:0.3] [/tp]What's important is, it's waterproof![/tp]
+[tp:0.03]But because that ghost used the switch to[p]control the water levels, your path is blocked.[pb]I think you could walk along the sewer[p]waterway and reach the switch... Give it a try![pb]You've got to return the water to its[p]original levels and go after that ghost![/tp]
+[tp:0.03]All right! The water is back to how it was![tp:0.3] [/tp][p]Go back to where you came from, and get[p]after the mechanic ghost![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], it looks like it's a dead end up ahead...[p]Hrmph.[tp:0.3] [/tp]I guess you'd best turn around and[p]get after the mechanic ghost![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], aren't you forgetting something?[tp:0.3] [/tp][p]Go collect the [clr:5AFEFF]button[/clr]![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], you'll need to use the drainage[p]control switch to change the water levels[p]if you want to chase the mechanic ghost![p]Make your way along the sewer waterway! Go![/tp]
+[tp:0.03]Look, [clr:98FC76]Luigi[/clr]![tp:0.3] [tp:0.03]That ghost is riding on a floaty![/tp] [/tp][p]Pop it! Use your[clr:5AFEFF] Poltergust G-00[/clr] to catch him, and[p]then send him sailing toward the thorns on the wall![/tp]
+Explore the Tomb Suites
+Escape the Pyramid and Battle the Boss Ghost
+Recover the Button
+[tp:0.03][clr:98FC76]Lu[/clr]...you hear...e?[tp:0.3] [/tp]The signal cut out[p]there all of a sudden. What's wrong?[pb]You fell down a sand pit?[tp:0.3] [/tp]Ah, a classic[p]trap you'd find inside a pyramid![pb][clr:98FC76]Luigi[/clr], you've got to find an escape route![tp:0.3] [/tp][p]And watch out for more traps![/tp]
+[tp:0.03]The [clr:FA96FD]mummy[/clr] will follow you wherever you go![tp:0.3] [/tp][p]Figure out a way to knock it over![/tp]
+[tp:0.03]Maybe you can knock the [clr:FA96FD]mummy [/clr]off-[p]balance with Burst? Hit it with a couple[p]good shots and it might tumble over![p]When that happens, you can try to suck[p]up those loose bandages it's wrapped in![/tp]
+[tp:0.03]Looks like there's a door overhead! Maybe you[p]can get back to the surface through there?[pb]Find a way to that door, [clr:98FC76]Luigi[/clr]![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]! It's unlikely that the pyramid's entrance is[p]just sitting in plain sight. Why don't you look around[p]and see if there's some kind of hidden mechanism.[/tp]
+[tp:0.03]What's up, [clr:98FC76]Luigi[/clr]?[tp:0.3] [/tp]You aren't thinking[p]of leaving the pyramid unexplored,[p]are you? Go check it out![/tp]
+[tp:0.03]It may seem like you're trapped, but as long as[p]you've got the [clr:5AFEFF]Poltergust G-00[/clr], you're never really[p]stuck![tp:0.3] [/tp]What I mean is, use it to move that sand![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], this pyramid has a lot of chambers.[tp:0.3] [/tp]Leave[p]no stone unturned![tp:0.3] [/tp]No room unexplored![tp:0.3] [/tp][p]Something in here can help you reach that door![/tp]
+[tp:0.03]I think the levers in the chambers can be used to[p]seal the hole in the [clr:FFE98B]central chamber[/clr], [clr:98FC76]Luigi[/clr]![pb]But it also seems like pulling just one lever[p]won't be enough...[tp:0.3] [/tp]Look in the other chambers,[p]and see if you can find more levers![/tp]
+[tp:0.03]It looks like there's some kind of scale at work...[tp:0.3] [/tp][p]And there are paintings of animals over there...[pb]I wonder what would happen if you put sand[p]on the scale and changed the weight around?[tp:0.3] [/tp][p]Maybe the paintings are a hint of some kind?[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]You're rapidly running out of space in that[p]room! Keep adjusting the weight on the scale to[p]line the needle up with the animal in the middle![/tp]
+[tp:0.03]Having trouble, [clr:98FC76]Luigi[/clr]?[tp:0.3] [/tp]Use the [clr:5AFEFF]Poltergust G-00[p][/clr]to move the sand! And maybe check out that[p]suspicious statue while you're at it...[/tp]
+[tp:0.03]Those lasers are bringing down the roof, literally![p]You'll need to find a way to disable them! I bet you[p]can use the sand to make a path for yourself![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], it looks like there's a hole in that wall.[tp:0.3] [/tp][p]You might be able to insert something in there,[p]now that I really think about it.[p]Maybe there's something hidden in the[p]sand that would fit?[tp:0.3] [/tp]Take a look![/tp]
+[tp:0.03]Oh no! [clr:98FC76]Luigi[/clr], if this keeps up, you'll be poisoned![tp:0.3] [/tp][p]Hurry up and plug those holes in the wall![tp:0.3] [/tp][p]Something in the sand must be able to help you![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]That monster is covered in sand![tp:0.3] [/tp][p]Use the [clr:5AFEFF]Poltergust G-00[/clr] to pull all that sand away![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], aren't you interested in the pyramid?[tp:0.3] [/tp]Where's[p]your curious spirit? Your sense of adventure?![pb]Come on, let's go back to [clr:FFE98B]10F[/clr] and check it out![p]Only good things come from pyramids![tp:0.3] [/tp]Mostly...[/tp]
+Explore the Twisted Suites
+Escape the Maze and Catch the Boss Ghosts
+Recover the Button
+[tp:0.03]Geez, that's one quick bunny![tp:0.3] [/tp]You'll have to catch[p]it if you want any hope of hitting it with [clr:5AFEFF]Dark-Light[/clr]![pb]And how will you hit it with [clr:5AFEFF]Dark-Light [/clr]if[p]you're also holding on to it...?[tp:0.3] [/tp]Heh heh heh![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]Work together with [clr:43D311]Gooigi[/clr] to defeat that [p]bunny! One of you should catch the bunny while[p]the other one hits it with [clr:5AFEFF]Dark-Light[/clr]![/tp]
+[tp:0.03]The chest is cursed, but you can't even get close[p]enough to it to give it a taste of [clr:5AFEFF]Dark-Light[/clr]?[pb][clr:98FC76]Luigi[/clr], you're going to have to stun it somehow if[p]you want to get close enough! You can do this![/tp]
+[tp:0.03]Listen, [clr:98FC76]Luigi[/clr]. I know that treasure chest[p]is scary, but you've got to go and face it![pb]Take a deep breath...then get back to the[p][clr:FFE98B]Illusion Bathroom[/clr] and tackle this problem![/tp]
+[tp:0.03]Grrr![tp:0.3] [/tp]Those magicians have gone and gotten the[p]rooms all turned around with their magic. I can't[p]even tell how the rooms connect anymore...[p]You've got no choice, [clr:98FC76]Luigi[/clr]! You need[p]to search each room, one by one![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], watch the hats closely![tp:0.3] [/tp]If you[p]keep your eyes on them, you can track[p]which ones have a magician under them![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], I know you're probably sick of[p]dealing with mazes, but we can't just[p]ignore those suspicious magicians.[p]Head back to [clr:FFE98B]11F[/clr] and track them down![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], are you forgetting something?[tp:0.3] [/tp][p]Anything at all?[tp:0.3] [/tp]Maybe an...[clr:5AFEFF]elevator button[/clr]?[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]! Where are you going? You know[p]you need to grab the [clr:5AFEFF]part [/clr]I need![/tp]
+[tp:0.03]Oh heck! The way ahead is blocked![tp:0.3] [/tp][p]You'll have to look for another way out[p]of this pickle, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]Check your map![/tp]
+[tp:0.03]That's it![tp:0.3] [/tp]That's the [clr:5AFEFF]part[/clr] I wanted[p]you to find![tp:0.3] [/tp]Great job![pb]All right, [clr:98FC76]Luigi[/clr]. Come back to the [clr:FFE98B]lab[/clr], and[p]we can power up your [clr:5AFEFF]Poltergust G-00[/clr]![/tp]
+[tp:0.03]That door looks like it's missing something...[tp:0.3][p][/tp]Maybe a part of some kind, [clr:98FC76]Luigi[/clr]?[pb]Why don't you have [clr:FE7388]Toad[/clr] help you look for it?[/tp]
+[tp:0.03]Ah, you've found [clr:FE7388]Toad[/clr]! How fortunate![pb]All right, looks like it's time for the main event![tp:0.3] [/tp][p]Try to find the [clr:5AFEFF]part[/clr] I asked you for![p]You saw it in the footage, remember?[tp:0.3] [/tp]Good luck![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], I know it's gross, but stop[p]complaining and get going![tp:0.3] [/tp]Heh heh heh![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]Thanks to that boat in your way,[p]it doesn't look like you can go any farther.[p]What is a boat even doing there...[p]Hey! Good timing, though! Could you come[p]back to the [clr:FFE98B]lab[/clr]? Something bad has[p]happened and...[tp:0.3] [/tp]Well, I'll tell you the details later.[p]Just get back to the [clr:FFE98B]lab[/clr], OK? I'll be waiting![tp:0.3] [/tp]Hurry![/tp]
+[tp:0.03]What are you doing, [clr:98FC76]Luigi[/clr]?[tp:0.3] [/tp][p]I told you to come back to the [clr:FFE98B]lab[/clr]![p]We have a little bit of a situation down here.[tp:0.3] [/tp][p]Hurry here—I'll be waiting![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], plug that handle into the door![/tp]
+Explore The Spectral Catch
+Give the Part to E. Gadd
+[tp:0.03][clr:98FC76]Luigi[/clr], before I lost contact, the last[p]thing [clr:FE7388]Toad [/clr]mentioned was something[p]about pipes and running water.[p]Does a floor like that ring any bells?[/tp]
+[tp:0.03]You won't find [clr:FE7388]Toad[/clr] in such a place.[tp:0.3] [/tp][p]Hurry up and go find him![/tp]
+[tp:0.03]You won't find [clr:FE7388]Toad[/clr] in the [clr:FFE98B]lobby[/clr].[tp:0.3] [/tp][p]Get on the [clr:FFE98B]elevator[/clr] and find him![/tp]
+Find Toad, and Look for the Needed Part Together
+[tp:0.03]Ah, [clr:98FC76]Luigi[/clr]. I've been waiting for you![/tp]
+[tp:0.03]Hm? There's one [clr:FE7388]Toad[/clr] missing?[tp:0.3] [/tp]Uh... Right.[p]That was the bad thing I'd mentioned.[/tp]
+[tp:0.03]You see, I was actually thinking about[p]further modifying your [clr:5AFEFF]Poltergust G-00[/clr].[p]You know, powering it up.[/tp]
+[tp:0.03]I was confident that the [clr:5AFEFF]part[/clr] I would[p]need to modify the [clr:5AFEFF]Poltergust G-00[/clr] was[p]in the hotel...[tp:0.3] [/tp]So I had [clr:FE7388]Toad[/clr] go look for it.[/tp]
+[tp:0.03]But...[tp:0.3] [/tp]Well, come have a look at this, [clr:98FC76]Luigi[/clr].[p]It's footage from a camera I gave [clr:FE7388]Toad[/clr]![/tp]
+[tp:0.03]It seems [clr:FE7388]Toad[/clr] was attacked by a ghost in[p]the place where the footage was taken.[/tp]
+[tp:0.03]Listen, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]This footage is a clue![tp:0.3] [/tp]You'll have[p]to use what was in the footage to track [clr:FE7388]Toad[/clr] down![/tp]
+[tp:0.03]Oh! But above all else, you simply[p]must bring me that [clr:5AFEFF]part[/clr]![/tp]
+[tp:0.03]My invention is at stake.[tp:0.3] [/tp]You obviously agree that[p]this is a mission of the utmost importance, right?[tp:0.3] [/tp][p]Heh heh heh![/tp]
+[tp:0.03]Get to it, [clr:98FC76]Luigi[/clr]![/tp]
+[tp:0.03]Ah![tp:0.3] [/tp]Thanks for bringing back the[p][clr:5AFEFF]part[/clr], [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]Now hand it over![/tp]
+[tp:0.03]What are you doing?[tp:0.3] [/tp]Give me the[p][clr:5AFEFF]Poltergust G-00[/clr] too! Come on, COME ON![/tp]
+[tp:0.03]Heh heh heh![tp:0.3] [/tp]Now what do you[p]think of that![tp:0.3] [/tp]I've completed my[p]modifications to the [clr:5AFEFF]Poltergust G-00[/clr]![/tp]
+[tp:0.03]I call it [clr:5AFEFF]Super Suction[/clr]![tp:0.3] [/tp]It has increased the[p]suction power exponentially![/tp] Heh heh heh!
+[tp:0.03]...Unfortunately, you have to plug it in to a special[p]electrical socket in order to use [clr:5AFEFF]Super Suction[/clr].[tp:0.3] [/tp][p]A minor inconvenience that you can surely handle![/tp]
+[tp:0.03]I'm sure you'll be able to find a few such sockets[p]in this hotel.[tp:0.3] [/tp]Try it out as soon as you find one![/tp]
+[tp:0.03]By the way, didn't you mention before[p]that there was part of a boat in your way[p]in [clr:FFE98B]The Spectral Catch[/clr], [clr:98FC76]Luigi[/clr]?[/tp]
+[tp:0.03]That'd be no match for the overwhelming power[p]of [clr:5AFEFF]Super Suction[/clr]![tp:0.3] [/tp]Head back there, and look for[p]one of those electrical sockets I mentioned![/tp]
+[tp:0.03]Ah![tp:0.3] [/tp]I remember![tp:0.3] [/tp]This way, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]If we go this way,[p]the exit should be through here![/tp]
+[tp:0.03]Oh! Look, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]That's the [clr:5AFEFF]part[p][/clr]I was trying to bring back![tp:0.3] [/tp][p]I didn't think it would be up there![/tp]
+[tp:0.03]I told you to hurry back to the [clr:FFE98B]lab[/clr]![tp:0.3] [/tp]Get here! Now![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], come back to the [clr:FFE98B]lab[/clr].[tp:0.3] [/tp]I'm going[p]to power up your [clr:5AFEFF]Poltergust G-00[/clr]![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], you're going to need to look for another[p]path if you want to get out of here! Follow the[p]waterway, and don't forget about your [clr:5AFEFF]VB[/clr] map![/tp]
+[tp:0.03]It looks like there's a door leading elsewhere, [clr:98FC76]Luigi[/clr].[p]Buuuut[tp:0.09]...[/tp]it doesn't look like you can open it yet.[p]The door seems to be missing a part...[p]Maybe you can ask [clr:FE7388]Toad[/clr] for help[p]looking for whatever is missing?[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], you didn't miss that door in the dead end, did[p]you?[tp:0.3] [/tp]I bet you could escape that way! Head back[p]to the end of that tunnel in [clr:FFE98B]drainage control[/clr]![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]Please don't leave me here![/tp]
+[tp:0.03]AAAHHHhhhh! Help me![tp:0.3] [/tp]Hurry, [clr:98FC76]Luigi[/clr]![/tp]
+[tp:0.03]Nooooo![tp:0.3] [/tp][clr:FE7388]Toad[/clr] got kidnapped![/tp]
+[tp:0.03]Look, [clr:98FC76]Luigi[/clr]! There's a door![tp:0.3] [/tp]Hang on...[tp:0.3] [/tp][p]It doesn't look like it has a handle.[/tp]
+[tp:0.03]Hey, [clr:98FC76]Luigi[/clr]! That's not the way to the [clr:FFE98B]lab[/clr].[tp:0.3] [/tp][p]Hurry up and get back there![/tp]
+[tp:0.03]Where are you going, [clr:98FC76]Luigi[/clr]?[tp:0.3] [/tp][p]Hustle back to the [clr:FFE98B]lab[/clr]![/tp]
+[tp:0.03]There seems to be a door, but the way[p]is blocked by a giant ship, so we can't[p]proceed...[tp:0.3] [/tp]Do we just...give up?[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]! Come back to the [clr:FFE98B]lab[/clr] as soon as you can![p]Something bad has happened![pb]I'll give you the details when you get here,[p]so just hurry back, OK?[/tp]
+[tp:0.03]Umm...[tp:0.3] [/tp][p]This isn't the right way...[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]![tp:0.3] [/tp][p]The exit is below, not here![/tp]
+[tp:0.03]I sent [clr:FE7388]Toad [/clr]out to find a [clr:5AFEFF]part[/clr] that I need to[p]upgrade your [clr:5AFEFF]Poltergust G-00[/clr], but, well...[pb]Now I need you to go find [clr:FE7388]Toad[/clr] AND the [clr:5AFEFF]part[/clr], OK?[p]Don't worry about the details—just get going![/tp]
+Clear Away the Blockage in The Spectral Catch
+Explore The Spectral Catch
+Rescue the Trapped Toad
+[tp:0.03][clr:98FC76]Luigi[/clr], don't forget about the [clr:5AFEFF]elevator button[/clr]![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]? Are you leaving your friend behind?[tp:0.3] [/tp][p]Wow.[tp:0.3] [/tp]I mean...I didn't expect that from you.[/tp]
+[tp:0.03]Well done, [clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]That's another [clr:FE7388]Toad[/clr] rescued![pb]Like always, [clr:FE7388]Toad[/clr] should probably wait[p]with me in the [clr:FFE98B]lab[/clr] until things are safe.[pb]Why don't you take [clr:FE7388]Toad[/clr] to the [clr:FFE98B]elevator[/clr], [clr:98FC76]Luigi[/clr]?[/tp]
+[tp:0.03]You've now found all of the [clr:FE7388]Toads[/clr].[tp:0.3] [/tp][p]That just leaves [clr:FE7388]Princess Peach[/clr] and [clr:FE7388]Mario[/clr]![pb]Just where could they be held captive...[tp:0.3] [/tp][p]Regardless, we're almost there, [clr:98FC76]Luigi[/clr]![/tp]
+[tp:0.03]Ahoy, [clr:98FC76]Luigi[/clr]! Have you ever heard old superstitions[p]involving the ringing of bells?[tp:0.3] [/tp]I think I've heard[p]one, but I can't recall what it meant...[p]Anyway, if you find a bell while you're[p]exploring, you should give it a ring![p]Maybe it'll bring you good luck![tp:0.3] [/tp]Heh heh heh![/tp]
+[tp:0.03]Are you forgetting something, [clr:98FC76]Luigi[/clr]?[tp:0.3] [/tp][p]Why not try going back to that pier?[/tp]
+[tp:0.03][clr:B996DC]K-K-K-K-King Boo[/clr]![tp:0.3] [/tp]There was just a tiny slipup...[/tp]
+[tp:0.03]But it's no problem! Not at all![tp:0.3] [/tp][p]We'll have [clr:98FC76]Luigi [/clr]locked away soon![tp:0.3] [/tp][p]If I could just have a little bit more time...[/tp]
+[tp:0.03]Ahoy, [clr:98FC76]Luigi[/clr]! Are you sure you don't want to go back[p]to that extremely suspicious pier on the beach?[tp:0.3] [/tp][p]It really struck me as something you should check.[p]This is no time to be scared![tp:0.3] [/tp][p]Let's hoist anchor and set sail for [clr:FFE98B]12F[/clr]![/tp]
+Explore the Fitness Center
+Recover the Button from the Boss Ghost
+[tp:0.03]Channel 3 plays music that is[p]perfect for the [clr:FFE98B]training room[/clr]...[/tp]
+[tp:0.03]...[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], now's not the time to play[p]dodgeball with the ghost![pb]As long as he's in the water, there's[p]nothing you can do to stop him![tp:0.3] [/tp][p]Use the valve over there and drain the pool![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]Once that ghost gives you[p]an opening, shoot a ball at it![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], you can't beat him while he's in the water![p]Try using that valve over there to drain the pool![tp:0.3] [/tp][p]Work together—you and [clr:43D311]Gooigi[/clr] can do this![/tp]
+[tp:0.03]Hmm... [clr:98FC76]Luigi[/clr], this seems like it's the [clr:FFE98B]yoga room[/clr]...[tp:0.3] [/tp][p]But what's up with those posters on the wall...[tp:0.3] [/tp][p]The ones reflected in the mirror.[p]Maybe there's some kind of connection between[p]the mats on the floor and the posters on the wall?[/tp]
+[tp:0.03]It looks like you can use the [clr:5AFEFF]Poltergust G-00[/clr][p]to roll and unroll those yoga mats...[pb]You could unroll them all, or roll them all up, but[p]I bet making them match the posters reflected in[p]the mirror would do...something?[/tp]
+Follow Polterkitty and Get the Button
+[tp:0.03][clr:98FC76]Luigi[/clr], it's obviously OK to stop by other places[p]and look around, but...[tp:0.3] [/tp]Shouldn't you be looking[p]for [clr:FA96FD]Polterkitty[/clr]?[tp:0.3] [/tp]You didn't forget, did you?[p]Oh![tp:0.3] [/tp]Did you think [clr:FA96FD]Polterkitty[/clr] came to this floor?[p]I can tell you that there's no sign of it here![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr].[tp:0.3] [/tp][clr:FA96FD]Polterkitty[/clr] went through the[p]floor up in the [clr:FFE98B]fitness center[/clr], right?[pb]You've got to track her down![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]![tp:0.3] [/tp][clr:FA96FD]Polterkitty[/clr] went through the floor of [clr:FFE98B]The[p]Spectral Catch[/clr]! You know... The beach restaurant![pb]You've already figured out where[p]you need to go, right?[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], are you forgetting something?[tp:0.3] [/tp][p]Anything at all? Maybe an...[clr:5AFEFF]elevator button[/clr]?[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]! It looks like boxing gloves fell over there.[p]Have you ever tried boxing?[tp:0.3] [/tp]Now's as good a time[p]as any—take a few swings at that sandbag![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], there's no evidence of [clr:FA96FD]Polterkitty [/clr]anywhere[p]in this room. You should move on to another room![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], don't most magicians have an assistant[p]onstage when they're doing magic?[tp:0.3] [/tp]You've got[p]an assistant too! Bring him out![tp:0.3] [/tp]Heh heh heh![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], I don't think that [clr:FA96FD]Polterkitty[/clr] is in this[p]room. Let's try searching another room![/tp]
+[tp:0.03]Keep a close eye on [clr:FA96FD]Polterkitty[/clr], [clr:98FC76]Luigi[/clr]! Don't let[p]it fool you with its feints.[tp:0.3] [/tp]Hit it with the[p][clr:5AFEFF]Strobulb[/clr] the moment you see an opening![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], [clr:FA96FD]Polterkitty[/clr] can't have gotten too far![tp:0.3] [/tp][p]It must still be hiding in the [clr:FFE98B]fitness center[/clr]. Head[p]to [clr:FFE98B]13F[/clr], find [clr:FA96FD]Polterkitty[/clr], and get that [clr:5AFEFF]button[/clr] back![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], you saw [clr:FA96FD]Polterkitty[/clr] escape through the[p]floor of [clr:FFE98B]The Spectral Catch[/clr], didn't you? Then...why[p]are you here and not in the [clr:FFE98B]Twisted Suites[/clr]?[tp:0.3] [/tp][p]Go on! That [clr:FA96FD]Polterkitty[/clr] isn't going to catch itself![/tp]
+Explore the Dance Hall
+Get the Button from the Boss Ghosts
+[tp:0.03]Hey, [clr:98FC76]Luigi[/clr]! If you pay close attention to how they're[p]moving, I bet you can see which one is holding the[p][clr:5AFEFF]button[/clr]! It's probably awkward to dance with it...[/tp]
+[tp:0.03]I've got to admit, I'm impressed by that hair...[tp:0.3] [/tp][p]But it's protecting her eyes from the [clr:5AFEFF]Strobulb[/clr]![tp:0.3] [/tp][p]It'd be awful if a gust of wind messed it up...[/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], are you forgetting something?[tp:0.3] [/tp][p]Anything at all?[tp:0.3] [/tp]Maybe an...[clr:5AFEFF]elevator button[/clr]?[/tp]
+[tp:0.03]I'm detecting an unusual presence behind the door![pb][clr:98FC76]Luigi[/clr]![tp:0.3] [/tp]Are you ready to keep going?[/tp]
+[tp:0.03]Do whatever you think is best, [clr:98FC76]Luigi[/clr].[tp:0.3] [/tp][p]My advice is to be thoroughly prepared, though![/tp]
+[tp:0.03]All right, then! I've got no more advice to give you.[tp:0.3] [/tp][p]I wish you the best, [clr:98FC76]Luigi[/clr]. Be careful and...[tp:0.5] [/tp]Huh?[/tp]
+[tp:0.03]Whoa![tp:0.3] [/tp]Oh no![tp:0.3] [/tp]Nooooooo![pb]...[/tp]
+Explore the Master Suite
+Reach the Hotel Owner
+Defeat the Hotel Owner and Rescue Mario
+Follow Mario
+[tp:0.03]Tch! How could my staff be so incompetent?![tp:0.3] [/tp][p]There's no way [clr:98FC76]Luigi[/clr] should have gotten this far![/tp]
+[tp:0.03]I suppose I underestimated you and[p]that professor... Just a tad.[/tp]
+[tp:0.03]Congratulations on making it all the way[p]up here, but that doesn't mean you've won![/tp]
+[tp:0.03]Actually, this could be very, very good! You, [clr:98FC76]Luigi[/clr]...[tp:0.3] [/tp][p]You're about to become the ultimate gift![/tp]
+[tp:0.03]Once I capture you and offer you to [clr:B996DC]King Boo[/clr], [p]he'll be absolutely delighted with me![/tp]
+[tp:0.03]In a way, this worked out splendidly.[tp:0.03] [/tp][p]You might as well have wrapped yourself![/tp]
+[tp:0.03]Maybe [clr:B996DC]King Boo[/clr] will decide to display you[p]next to this painting...[tp:0.3] [/tp]I'll have to ask him![/tp]
+[tp:0.03][clr:98FC76]Luiiiiiiigi[/clr]![tp:0.3] [/tp]If you want to save [clr:FE7388]Mario[/clr],[p]you'll have to come and find me![/tp]
+[tp:0.03]Try not to faint from sheer terror before[p]then.[tp:0.3] [/tp]I'll be waiting in anticipation![/tp]
+[tp:0.03]Well well well...[tp:0.3] [/tp]I honestly didn't[p]think you'd have it in you.[/tp]
+[tp:0.03]A scaredy-cat like you, making it[p]this far... You're just FULL of surprises![/tp]
+[tp:0.03]You ransacked my hotel, captured my staff[p]with that strange vacuum of yours...[/tp]
+[tp:0.03]And to top it all off, you catnapped[p]my sweetie, my little darling...[/tp]
+[tp:0.03]My precious [clr:FA96FD]Polterkitty[/clr]![/tp]
+[tp:0.03]This isn't how it was supposed to happen![/tp]
+[tp:0.03]You weren't supposed to run away[p]from [clr:B996DC]King Boo [/clr]like a filthy coward![/tp]
+[tp:0.03]If you'd just let yourself get caught in that[p]painting, [clr:B996DC]King Boo[/clr] would have showered me[p]with praise for my brilliant trap![/tp]
+[tp:0.03]But instead...[tp:0.3] [/tp]Instead...[tp:0.3] [/tp][p]I'VE LOST EVERYTHING! BECAUSE OF YOU![/tp]
+[tp:0.03]Ahem...[tp:0.3] [/tp][p]Shall we begin?[/tp]
+[tp:0.03]I suppose I'll just have to deal with you myself.[tp:0.3] [/tp][p]Then [clr:B996DC]King Boo[/clr] will trust me once more and[p]recognize how useful I can be to him![/tp]
+[tp:0.03]Are you ready, [clr:98FC76]Luigi[/clr]?[tp:0.3] [/tp][p]Do try to make this enjoyable for me![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], this floor must be heavily guarded.[p]Make use of the [clr:5AFEFF]Virtual Boo[/clr] and [clr:5AFEFF]Poltergust G-00[/clr],[p]and find a way into the [clr:FA96FD]hotel owner[/clr]'s room![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]! You can't run away now![p]Head back to [clr:FFE98B]15F[/clr], and give that horrible[p][clr:FA96FD]hotel owner [/clr]the whooping of her afterlife![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], did you see that?[tp:0.3] [/tp]That was your[p]big brother! That means the [clr:FA96FD]hotel owner[p][/clr]is finally making an appearance![tp:0.3] [/tp][p]It's finally time for you two to face off![p]Track down the [clr:FA96FD]hotel owner[/clr] and rescue [clr:FE7388]Mario[/clr]![/tp]
+[tp:0.03]Look out, [clr:98FC76]Luigi[/clr]! There are invisible[p]lasers all over the place![pb]See that powder on the floor? I bet you could use[p]Burst to blow it up into the air![tp:0.3] [/tp]That'd probably[p]reveal the lasers, even just for a short time.[/tp]
+Rescue Peach
+Defeat King Boo and Rescue Everyone
+[tp:0.03]Mwa ha ha! How brash of you[p]to come and face me, [clr:98FC76]Luigi[/clr]![/tp]
+[tp:0.03]You should have just run away[p]while you had the chance![/tp]
+[tp:0.03]But instead you stayed and fought all the[p]way up here to oppose me?[tp:0.3] [/tp]How foolish![/tp]
+[tp:0.03]You may have made your way through the[p]hotel using [clr:FE7388]E. Gadd[/clr]'s frustrating inventions[p]to suck up all the ghosts in your path...[/tp]
+[tp:0.03]You were all "SHWEEERRPP-SHLOOOOP-[p]WHOOORPP-SHLEEEOOORG!"[/tp]
+[tp:0.03]Ahem.[tp:0.5] [/tp]Anyway, just because you vacuumed up all[p]of those ghosts doesn't mean you can take me on![p]It doesn't matter that you beat the [clr:FA96FD]hotel owner[/clr]... [/tp]
+[tp:0.03][clr:FA96FD]Hellen Gravely[/clr]![tp:0.3] [/tp]Ooooooo![tp:0.3] [/tp]She let all your friends [p]get away![tp:0.3] [/tp]It's so frustrating when you trap[p]something in a painting and it gets out, you know?[/tp]
+[tp:0.03]Arg! [clr:FA96FD]Hellen Gravely[/clr]... All those ghosts...[tp:0.3] [/tp][p]Useless! I have to do everything myself![/tp]
+[tp:0.03]I'm sick of this! No more mercy for you, [clr:98FC76]Luigi[/clr]![/tp]
+[tp:0.03]No more tricks—no more carefully laid plans![p]Now it's time for raw [clr:B996DC]King Boo[/clr] gusto![/tp]
+[tp:0.03]You're all going in a painting![p]An ensemble portrait is your fate![/tp]
+[tp:0.03]Mwa ha ha! Serves you right![/tp]
+[tp:0.03]Just a few left. Go on! Join them![p]My painting must be complete![/tp]
+[tp:0.03]Sorry to keep you waiting.[p]Are you ready?[tp:0.3] [/tp]I don't care![/tp]
+[tp:0.03]...Hm?[tp:0.3] [/tp]One-two-three-four-five-six-sev[tp:0.3]—[/tp] WAIT![/tp]
+[tp:0.03]There should be seven! Who's missing?![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr]! What are you doing over there?![/tp]
+[tp:0.03]UGH! That's it! I'm sick to double death of you![/tp]
+[tp:0.03]You want to fight me? FINE! Let's go, [clr:98FC76]Luigi[/clr]![/tp]
+[tp:0.03]This is the end for you, once and[p]for all! HERE I COME![/tp]
+Boolldog
+[tp:0.03]Arf, arf! I'm [clr:B996DC]Boolldog[/clr]![tp:0.3] [/tp]I'm off the chain! Grrr![/tp]
+[tp:0.03]Arf, arf! I'm [clr:B996DC]Boolldog[/clr]![tp:0.3] [/tp]You better turn tail and run![/tp]
+ComBooster
+[tp:0.03]Fwooosh! I'm [clr:B996DC]ComBooster[/clr]![tp:0.3] [/tp]Is it just me,[p]or is it getting pretty steamy in here?[/tp]
+[tp:0.03]I'm[clr:B996DC] ComBooster[/clr]! Fwooosh![tp:0.3] [/tp]Looks like[p]you stayed in the bath for too long![/tp]
+Boosement
+[tp:0.03]Ho ho, I'm [clr:B996DC]Boosement[/clr]![tp:0.3] [/tp]Looks like[p]you found me...or did you?[/tp]
+[tp:0.03]Ho ho, I'm [clr:B996DC]Boosement[/clr]![tp:0.3] [/tp]Looks like[p]you're still in the dark! Ho ho![/tp]
+GumBoo
+[tp:0.03]Yoo-hoo! I'm [clr:B996DC]GumBoo[/clr]![tp:0.3] [/tp]Oo-wee![p]Found me! Y'all stay back, now![/tp]
+[tp:0.03]Yoo-hoo! I'm [clr:B996DC]GumBoo[/clr]![tp:0.3] [/tp]You're no[p]match for me, I gua-ran-tee![/tp]
+Booigi
+[tp:0.03]I'm [clr:B996DC]Booigi[/clr], number one![tp:0.3] [/tp]One of[p]us is gonna have to change![/tp]
+[tp:0.03]I'm [clr:B996DC]Booigi[/clr], number one![tp:0.3] [/tp]"Waah, help me, Big Bro!"[p]That's you! I was doing you just then![/tp]
+Kung Boo
+[tp:0.03]Hi-yah! I'm [clr:B996DC]Kung Boo[/clr]![tp:0.3] [/tp]You won't[p]catch me! I flow like water![/tp]
+[tp:0.03]Hi-yah! I'm [clr:B996DC]Kung Boo[/clr]![tp:0.3] [/tp]Bow to your sensei![/tp]
+Boogie
+[tp:0.03]Ta-daaa! I'm [clr:B996DC]Boogie[/clr]![tp:0.3] [/tp]This hotel is pretty swanky![/tp]
+[tp:0.03]Ta-daaa! I'm [clr:B996DC]Boogie[/clr]![tp:0.3] [/tp]Once more, from the top![/tp]
+Boo-at-Arms
+[tp:0.03]Thou mayest call me [clr:B996DC]Boo-at-Arms[/clr]![tp:0.3] [/tp][p]Come, let us duel with honor![/tp]
+[tp:0.03]Thou mayest call me [clr:B996DC]Boo-at-Arms[/clr]![tp:0.3] [/tp][p]Thou art ill-equipped for a battle with me![/tp]
+Bootanist
+[tp:0.03]Hello, they call me [clr:B996DC]Bootanist[/clr]...[tp:0.3] [/tp][p]It looks like you found me...[/tp]
+[tp:0.03]Hello, they call me [clr:B996DC]Bootanist[/clr]...[tp:0.3] [/tp][p]Please don't step on my lovely flowers...[/tp]
+Booducer
+[tp:0.03]Ha ha ha! I'm the [clr:B996DC]Booducer[/clr]![tp:0.3] [/tp][p]I can get a table anywhere I want![/tp]
+[tp:0.03]Ha ha ha! I'm the [clr:B996DC]Booducer[/clr]![tp:0.3] [/tp]You're still[p]too green for the silver screen![/tp]
+Boones
+[tp:0.03]ROAR! My name is [clr:B996DC]Boones[/clr]![tp:0.3] [/tp][p]You just dug up a heap of trouble![/tp]
+[tp:0.03]ROAR! My name is [clr:B996DC]Boones[/clr]![tp:0.3] [/tp][p]You're about to be extinct![/tp]
+AnuBoo
+[tp:0.03]I'm [clr:B996DC]AnuBoo[/clr]![tp:0.3] [/tp]Time to tip the scales in my favor![/tp]
+[tp:0.03]I'm [clr:B996DC]AnuBoo[/clr]![tp:0.3] [/tp]Were you fooled by a mirage? Heh...[/tp]
+Boofuddler
+[tp:0.03]Huh?! I-I'm [clr:B996DC]Boofuddler[/clr]![tp:0.3] [/tp]Aw shoot![p]Looks like you saw through my trick![/tp]
+[tp:0.03]Tee-hee! I'm [clr:B996DC]Boofuddler[/clr]![tp:0.3] [/tp]Looks like[p]you still have a lot to learn![/tp]
+Booccaneer
+[tp:0.03]Avast, me hearties! I be [clr:B996DC]Booccaneer[/clr]![tp:0.3] [/tp][p]Let me set sail—there's booty to plunder![/tp]
+[tp:0.03]Arr! I be [clr:B996DC]Booccaneer[/clr]![tp:0.3] [/tp]It's time[p]for you to walk the plank![/tp]
+Boodybuilder
+[tp:0.03]Yo, bro! I'm [clr:B996DC]Boodybuilder[/clr]![tp:0.3] [/tp]You're pretty[p]good! You been working out?[/tp]
+[tp:0.03]Yo, bro! I'm [clr:B996DC]Boodybuilder[/clr]![tp:0.3] [/tp]You're lifting[p]way outside your weight class![/tp]
+Boosician
+[tp:0.03]'Sup, dude! The name's [clr:B996DC]Boosician[/clr]![tp:0.3] [/tp][p]Got a minute to listen to my demo tape?[/tp]
+[tp:0.03]'Sup, dude! The name's [clr:B996DC]Boosician[/clr]![tp:0.3] [/tp][p]A'ight, time for me to play myself out![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], [clr:B996DC]Boos [/clr]are good at playing[p]hide-and-seek![tp:0.3] [/tp]Shine some [clr:5AFEFF]Dark-Light[p][/clr]on the area to try to uncover them![/tp]
+Install the Button in the Elevator
+Return to the Lab
+Escort Toad to the Elevator
+[tp:0.03]Sorry, I don't have any new information[p]for you.[tp:0.3] [/tp]Keep exploring the hotel![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], I know saving your friends is[p]important, but don't forget about[p]collecting ghosts![tp:0.3] [/tp]Heh heh heh![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], I've got nothing for you![tp:0.3] [/tp]...I mean,[p]nothing but confidence...in your ability...[tp:0.3] [/tp][p]to...figure this out on your own?[tp:0.3] [/tp]Yeah, that![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], now's not the time to be contacting me![p]Focus on taking care of the job at hand![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], if you ever get stuck while you're[p]exploring, remember to try out all the[p]amazing features of the [clr:5AFEFF]Poltergust G-00[/clr]![p]Try shining [clr:5AFEFF]Dark-Light[/clr] on various places, or[p]utilize your [clr:5AFEFF]Suction Shot[/clr]![/tp]
+[tp:0.03][clr:98FC76]Luigi[/clr], have you explored every last nook[p]and cranny of this hotel, top to bottom?[p]It's important to be thorough![p]If you ever get stuck, look at the [clr:5AFEFF]VB[/clr]'s map and see[p]if there are any places you haven't visited yet![/tp]
+[tp:0.03]Geez, what have I gotten myself into now...[tp:0.3] [/tp][p]Just when you think you'll have a nice, relaxing[p]vacation at a luxury hotel, THIS happens...[p]I guess the beautiful appearance of the place[p]was all part of the trick to get us here, huh?[tp:0.3] [/tp][p]The hotel's true form is downright creepy.[/tp]
+[tp:0.03]So you were also invited to this hotel, [clr:98FC76]Luigi[/clr]?[p]Was it a pleasant letter that made the place sound[p]so amazing that you absolutely had to come? [p]They also wrote to me about having a fantastic[p]collection of ghosts I could get my hands on,[p]so I came here as soon as I was able![p]Obviously it was all a ruse to trap me...[/tp]
+[tp:0.03]As you know, I'm the leading authority on ghost[p]research, [clr:98FC76]Luigi[/clr].[tp:0.3] [/tp]It can only be fate that we would[p]meet again under these circumstances.[tp:0.3] [/tp]Lucky us![p]Now then, get moving and use the [clr:5AFEFF]Poltergust G-00[/clr][p]to catch as many ghosts as you can.[tp:0.3] [/tp][p]Science is always hungry for progress![/tp]
+[tp:0.03]By the way, [clr:98FC76]Luigi[/clr]...[tp:0.3] [/tp]How much money have[p]you collected so far? I hope you'll be able[p]to line your pockets while we're here! [p]Heh heh heh![/tp]
+Collected a total of 10,000 coins
+Collected 10,000 Coins
+Collected a total of 6,000 bills
+Collected 6,000 Bills
+Collected a total of 3,000 gold bars
+Collected 3,000 Gold Bars
+Collected a total of 150 pearls
+Collected 150 Pearls
+Collected all gems in the hotel
+Collected All Gems
+Collected all gems in the basement
+Collected All Basement Gems
+Collected all gems in the Grand Lobby
+Collected All Grand Lobby Gems
+Collected all gems in the RIP Suites
+Collected All RIP Suite Gems
+Collected all gems in the hotel shops
+Collected All Hotel Shop Gems
+Collected all gems in the mezzanine
+Collected All Mezzanine Gems
+Collected all gems in the Great Stage
+Collected All Great Stage Gems
+Collected all gems in Castle MacFrights
+Collected All Castle Gems
+Collected all gems in the Garden Suites
+Collected All Garden Suites Gems
+Collected all gems in Paranormal Productions
+Collected All Studio Gems
+Collected all gems in the Unnatural History Museum
+Collected All Museum Gems
+Collected all gems in the boilerworks
+Collected All Boilerworks Gems
+Collected all gems in the Tomb Suites
+Collected All Tomb Suites Gems
+Collected all gems in the Twisted Suites
+Collected All Twisted Suites Gems
+Collected all gems in The Spectral Catch
+Collected All Spectral Catch Gems
+Collected all gems in the fitness center
+Collected All Fitness Center Gems
+Collected all gems in the dance hall
+Collected All Dance Hall Gems
+Collected all gems in the master suite
+Collected All Master Suite Gems
+Captured all Boos in the hotel
+Captured All Boos
+Found 100 haunted objects
+Found 100 Haunted Objects
+Rode the elevator 50 times
+Rode Elevator 50 Times
+Found all haunted objects in the 2F dressing room
+Found All Haunted Objects in the 2F[p]Dressing Room
+Removed all spiders and webs behind 5F laundry room
+Removed All Spiders and Webs[p]behind 5F Laundry Room
+Sucked up all merchandise in the hotel shops
+Sucked Up All Shop Merchandise
+Cleared billiards table in the 2F entertainment room
+Played Billiards on 2F
+Found and defeated the ghost orchestra on 4F
+Defeated the Ghost Orchestra on 4F
+Found the royal coffers in Castle MacFrights
+Found the Royal Coffers
+Used the Strobulb on all Strobe Flowers in the Garden[p]Suites
+Used the Strobulb on All Strobe[p]Flowers in the Garden Suites
+Captured the director ghost in Paranormal Productions
+Captured the Director Ghost
+Destroyed all exhibits in the Unnatural History Museum
+Destroyed All Museum Exhibits
+Played music in the boilerworks observation room
+Played Music in the Boilerworks
+Found and popped the beach ball in Tomb Suites
+Popped the Beach Ball
+Cleaned up all stuffed bunnies in Twisted Suites
+Cleaned Up All Stuffed Bunnies
+Shot down the moon from The Spectral Catch
+Shot Down the Moon
+Got all mice in the fitness center locker room
+Got All Locker Room Mice
+Snuck into the hidden vault in the dance hall
+Snuck into the Hidden Vault
+Found the Golden Goobs in the master bathroom
+Found the Master Bathroom's Golden[p]Goobs
+Defeated 500 total pests
+Defeated 500 Pests
+Captured 999 total ghosts
+Captured 999 Ghosts
+Captured 500 Mini Ghosts
+Captured 500 Mini Ghosts
+Destroyed a Hammer using a single tether
+Destroyed Hammer with 1 Tether
+Defeated 6 ghosts at once
+Defeated 6 Ghosts at Once
+Slammed a ghost 7 times in a row
+Slammed a Ghost 7 Times in a Row
+Defeated a ghost by slamming it into another ghost
+Defeated a Ghost with a Ghost Slam
+Cleared the 5-floor ScareScraper
+Cleared the 5-Floor ScareScraper
+Cleared the 10-floor ScareScraper
+Cleared the 10-Floor ScareScraper
+Defeated 40 rare ghosts in ScareScraper
+Defeated 40 Rare Ghosts
+Revived teammates 20 times in ScareScraper
+Revived Teammates 20 Times
+Completed 100 total floors in ScareScraper
+Completed 100 Total Floors
+Defeated Boolossus 20 times in ScareScraper
+Defeated Boolossus 20 Times
+???
+{0} Back
+{0} Cancel
+{0} Load
+{0} Cancel
+{0} Save
+{0} Delete
+{0} Select
+{0} Select
+{0} Back
+{0} Select
+{} Toggle
+:
+:
+,
+{0} Confirm
+{0} Back
+Press {0} to Start
+Luigi's Mansion 3[p]Staff Credits
+Nintendo and Next Level Games[p]are the authors of this software for the purpose of copyright.[p]All rights reserved.
+Luigi
+Gooigi
+Multiplayer
+Shopping Network
+Guide/Settings
+Return to Title Screen
+Explore Hotel
+Gallery
+Talk to E. Gadd
+Map
+{0} Confirm
+{0} Confirm
+{0} Confirm
+{0} Start
+{0} Next
+{0} Refresh
+{0} Back
+Loading
+Saving...
+Restart your game[p]from the last autosave?
+Restart
+Quit Game
+Are you sure you want[p]to quit the game?
+Quit
+Cancel
+Create Room
+Delete
+Return to Title Screen
+Story Checkpoint
+Start
+Cancel
+Cancel
+Cancel
+Cancel
+Load
+Do you want to load this file?
+Loading this file will overwrite existing autosave data.[p]Are you sure you want to load this file?
+This game saves automatically.[p]Please do not turn off your console while[p][clr:00FF00]Saving...[/clr] is displayed.
+OK
+If you continue to multiplayer, your[p]game will end and any progress made[p]after your last autosave will be lost.[p]Do you want to proceed?
+Proceed
+Cancel
+GAME 1
+GAME 2
+GAME 3
+{0}:{1}:{2}
+Create new game?
+Do you want to quit and return to the title[p]screen? Any progress made after your[p]last autosave will be lost.
+Are you sure you want to delete this save file?
+Return to Title Screen
+New Game
+No Data
+Save Complete
+Deleted
+ScareScraper is not available on this save file yet. Please select a different save file.
+OK
+Play Time: {0} h. {1} min.
+Updated: {1}/{2}/{0}   {3}
+Story
+Items
+Is this what you want to buy?[p][p]{0} {1} -> {2} {3}
+Buy
+Cancel
+In Stock: {0}
+Gold Bone
+Polterpup will come to your aid if your health reaches 0![p]He'll take the bone after restoring your health, though...
+You got one Gold Bone!
+OK
+Hey, the location of a Boo has been added to the map!
+OK
+Hey, the location of a gem has been added to the map!
+OK
+Boo Finder
+That's a cartridge that'll project the location of a Boo on to your map.[p]Each one reveals the location of one Boo!
+Gem Finder
+That's a cartridge that'll project the location of a gem on to your map.[p]Each one reveals the location of one gem!
+{0} Back
+{0} Select
+You don't have enough money!
+OK
+Sold out!
+OK
+It's on back order!
+OK
+Back order
+Sold out
+The connection has been lost.
+OK
+Could not join the game.
+OK
+ScareScraper
+ScreamPark
+Local Play
+Online Play
+With Anyone
+With Friends
+Solo
+Co-op
+Press a button on the[p]controller you want to use.
+ScreamPark with 5 or more players can only[p]be played with horizontal Joy-Con controllers[p]or Nintendo Switch Pro Controllers.
+OK
+Return
+Please select a team.
+Coin Floating
+Cannon Barrage
+Ghost Hunt
+Floors Cleared: {0}
+Time: {0}
+How many floors do you want to play?
+5 Floors
+10 Floors
+Random
+Settings
+Guide
+Reconnect Controllers
+Adjust Brightness Settings
+Controls
+Hints from E. Gadd
+On
+Off
+R Stick Aim
+Horizontal Only
+Omnidirectional
+Movement while Poltergusting
+Turn
+Don't Turn
+Gyro Sensitivity
+Screen Brightness
+Adjust the brightness until King Boo is no longer visible.
+Dark
+Bright
+Apply changes?
+Apply
+Don't Apply
+Pause Menu
+Suck
+Strobulb/Slam
+Action
+Action/Dark-Light
+Strobulb/Slam
+Change Movement
+Suction Shot
+Turn
+Turn
+Aim Up/Down
+Burst
+Skip
+Pause Menu / Skip
+Blow
+Summon/Select Gooigi
+Summon Gooigi
+Store Gooigi
+Move
+Message
+Toggle Map
+Help!
+Thanks!
+Over here!
+Luigi
+Gooigi
+x1
+x2
+Yes
+No
+Blue Toad
+Toad
+Peach
+E. Gadd
+Polterpup
+???
+Morty
+Hellen Gravely
+Steward
+Hotel Staff
+King Boo
+Collection
+Hotel
+Battle
+ScareScraper
+Elevator
+© 2019 Nintendo
+Work together to reach the top of the tower![p]You can play using Local or Online Play.
+Play minigames with up to eight people on a single console!
+CONGRATULATIONS!
+RANK:
+THE END
+Good Night!
+{0} Players
+LUIGI
+GOOIGI
+Controls
+Blow
+Strobulb/Slam
+Strobulb/Slam
+Suck
+Suck
+Suck
+Direction
+Walk
+Walk
+Inflate Floaty
+Actions
+Suction Shot
+Collect a star and you'll[p]have a chance to attack[p]your opponent's floaty!
+Aim for the ghosts that[p]are worth the most!
+The golden targets are[p]your best chance to[p]score serious points!
+Coin Floating
+Ghost Hunt
+Cannon Barrage
+The team that collects the most coins wins.[p]Don't pop your floaty on the mines that fall from above[p]or you'll drop all of your coins!
+Defeat ghosts to earn points! The team with the most points wins.[p]Some ghosts are worth more points than others, so pick your[p]targets carefully! There may even be a special ghost hiding in[p]the gravestones!
+Earn points by using your cannon to break targets. The team with[p]the most points wins. Work together with your teammates to[p]collect cannonballs, load the cannon, and fire! Don't forget that[p]you can steal another player's cannonball using the Suction Shot!
+Return to Game Selection
+Quit Coin Floating and return [p]to the game-selection screen?
+Quit Ghost Hunt and return [p]to the game-selection screen?
+Quit Cannon Barrage and return [p]to the game-selection screen?
+Retry
+{} READY
+{} BACK
+Return to Game Selection
+x
+0
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+TEAM | {}
+TEAM | {}
+Recruit Team
+ON
+OFF
+Ready
+Ready!
+Waiting for other players...
+{} Back
+{} Select
+{} Ready
+{} Cancel
+New Game
+Join Game In Progress
+Do you want to exit the lobby?
+No
+Yes
+Do you want to start without waiting for other players?
+Wait a bit
+Start
+View Friend List
+Floors: {0}/{1}
+FULL
+JOIN
+With Friends
+With Anyone
+With Anyone {}
+With Anyone
+Searching...
+Searching...
+Connecting...
+Unable to join a team.[p]A new team has been created on 1F.
+OK
+The game you selected has ended.[p]A new game will start on 1F.
+OK
+Cancel
+Return to Lab
+Do you want to quit the game and return to the lab?
+{} Cancel
+{} Quit Game
+{} Toggle Score Info
+{} Select
+{} Ready
+Ready
+Continue
+Recruit Team
+ON
+OFF
+No Player
+With Friends
+With Anyone {}
+With Anyone
+Open the team?[p]Doing so will make the team[p]visible to new players.
+Open
+Cancel
+Close the team?[p]Doing so will make the team[p]invisible to new players.
+Close
+Cancel
+Change the lobby settings to "With Anyone"?[p]You won't be able to change this lobby back[p]to "With Friends."
+Change
+Cancel
+0:{}
+Restart from 1F?
+Restart
+Quit
+Please wait—a game is in progress.[p]You will join the game on the next floor.
+Leave Game
+Floor:
+Floors: {0}
+{}/{}
+Team | {}
+{0}:{1}
+You were disconnected due to inactivity.
+OK
+Return to the Lab
+Quit the game and return to the lab?[p](Please be aware that data from the[p]floor you're currently on will be lost.)
+Cancel
+Return to the Lab
+B2
+B1
+1F
+2F
+3F
+4F
+5F
+6F
+7F
+8F
+9F
+10F
+11F
+12F
+13F
+14F
+15F
+Boilerworks
+Basement
+Grand Lobby
+Mezzanine
+Hotel Shops
+The Great Stage
+RIP Suites
+Castle MacFrights
+Garden Suites
+Paranormal Productions
+Unnatural History Museum
+Tomb Suites
+Twisted Suites
+The Spectral Catch
+Fitness Center
+The Dance Hall
+Master Suite
+???
+???
+Ghosts
+Special Items
+Gems
+Special Items
+Suction Shot Type-C
+Flashlight Type-B
+Poltergust Type-G
+Remove
+Equip
+{0} BACK
+GHOSTS
+BOSS GHOSTS
+BOOS
+GEMS
+RARE GHOSTS
+Steward
+Chambrea
+Kruller
+Chef Soulfflé
+Amadeus Wolfgeist
+King MacFrights
+Dr. Potter
+Morty
+Ug
+Clem
+Serpci
+Nikki, Lindsey, & Ginny
+Captain Fishook
+Johnny Deepend
+DJ Phantasmagloria
+Hellen Gravely
+Goob
+Hammer
+Oozer
+Slinker
+Trapper
+Mini Goob
+Mini Hammer
+Speed Goob
+Speed Oozer
+Bomb Goob
+Bomb Hammer
+Bomb Oozer
+Regen Goob
+Regen Hammer
+Regen Slinker
+Speed Hammer
+[tp:0.03]Your [clr:5AFEFF]Poltergust[/clr] has been sent to another location![tp:0.3] [/tp][p]Use your map to track down where it went![/tp]
+[tp:0.03]The breaker switch should be around here [p]somewhere![tp:0.3] [/tp]Find it and restore the power![/tp]
+Lobby
+Room 503
+Lobby
+Ballroom
+Hallway
+Dressing Room
+Storage Room
+Elevator Shaft
+Laundry Room
+Service Hallway
+Service Stairwell
+Garage
+Room 503
+503 Bathroom
+Room 502
+502 Bathroom
+Room 501
+501 Bathroom
+501 Balcony
+Hallway
+Laundry Room
+5F Exterior
+Elevator Shaft
+Room 504
+504 Bathroom
+Room 505
+505 Bathroom
+Room 506
+506 Bathroom
+Room 507
+507 Bathroom
+Room 508
+508 Bathroom
+508 Balcony
+Accessories
+Barber Shop
+Boutique
+Coffee Shop
+Elevator Hall
+Gift Shop
+Lost and Found
+Mall Lobby
+Mall Lobby
+Security Office
+Hallway
+Restroom
+Restroom
+Restroom
+Hallway
+Kitchen
+Entertainment Room
+Restaurant
+Elevator Hall
+Concession Stand
+Restroom
+Restroom
+Auditorium
+Dressing Room
+Front Gate
+Hall of Armor
+Coliseum Balcony
+Armory
+Stairway
+Cellar
+Antechamber
+Cage-Lift Room
+Waterwheel Room
+Dungeon
+Bridge Room
+Cart Storage Area
+Coliseum Hallway
+Coliseum
+Royal Coffers
+Elevator Hall
+Atrium
+Blooming Suite
+Blooming Bathroom
+Thorny Bathroom
+Ivy Suite
+Ivy Bathroom
+Mushroom Suite
+Elevator Hall
+Entrance Hall
+Studio Entrance
+Backstage
+Studio 4: Micro Set
+Studio 3: Fire Set
+Studio 2: Castle Set
+Studio 1: Horror Set
+Studio 5: City Set
+Editing Room
+Exhibit Hall
+Elevator Hall
+Elevator Hall
+Waterworks
+Storage Room
+Reservoir
+Observation
+Drainage Control
+Main Tank
+Main Tank - Top
+Old Reservoir
+Sewer A
+Sewer B
+Sewer C
+Elevator Hall
+Sandy Grand Hall
+Altar Chamber
+Pit Chamber
+Hidden Passageway
+Central Chamber
+Jewel Chamber
+Scale Chamber
+Snake Chamber
+Secret Passageway
+Elevator Hall
+Gallery
+Hall
+Laundry Room
+Bladed Bedroom
+Suit Bathroom
+Inverted Bedroom
+Illusion Bathroom
+Lounge
+Water-Tank Bathroom
+Trainer's Bedroom
+False Bedroom
+Mirror Bathroom
+Stage
+Wardrobe
+Beach
+Grotto Lounge
+Elevator Hall
+Elevator Hall
+Gym Lobby
+Locker Room
+Weight Room
+Training Room
+Yoga Room
+Shower Room
+Pool
+Pool - Back Access
+13F Exterior
+Elevator Hall
+Dance Floor
+Elevator Hall
+Lounge
+Hallway
+Library
+Drawing Room
+Master Bedroom
+Master Bathroom
+Main Observation Room
+A
+B
+C
+{0} SKIP
+Co-op
+Solo
+A mode where two players work[p]together, playing as Luigi and Gooigi.
+Cancel
+Co-op
+Map
+Guide/Settings
+E. Gadd Hotline
+Return to the lab?
+Quit the game and return[p]to the title screen?[p](Any progress made after[p]your last autosave will be lost.)
+Cancel
+Return to Title Screen
+Lab
+Return to Title Screen
+Cancel
+Cancel
+Return to Lab
+OK
+OK
+Current Objective
+Gems
+ACHIEVEMENTS
+OBJECTIVES
+{0} BACK
+{0}+{1} ZOOM
+{0} RESET MAP
+{0}/{1} FLOORS
+{0} Cursor Movement
+{0} LEVEL {1}
+LEVELS
+{0} : {1}
+ZOOM
+REC
+Ready...
+Set...
+Go!
+Floor {0}
+Cleared!
+Capture the Ghosts!
+Capture the Ghosts: [clr:43D311]Success![/clr]
+Capture the Ghosts: [clr:FE7388]Failed[/clr]
+Find the Toads!
+Find the Toads: [clr:43D311]Success![/clr]
+Find the Toads:[clr:FE7388] Failed[/clr]
+Collect the Money!
+Collect the Money: [clr:43D311]Success![/clr]
+Collect the Money:[clr:FE7388] Failed[/clr]
+Defeat Boolossus!
+Defeat Boolossus:[clr:43D311] Success![/clr]
+Defeat Boolossus: [clr:FE7388]Failed[/clr]
+Defeat the Crows!
+Defeat the Crows:[clr:43D311] Success![/clr]
+Defeat the Crows:[clr:FE7388] Failed[/clr]
+Time's Up...
+Everyone Has Fainted...
+Time's Up...
+x{0}
+{0} has fainted!
+{0} has been revived!
+{0} unlocked a door!
+{0} cleared a room!
+{0} collected a key!
+{0} joined the team.
+{0} left the team.
+Over here!
+Help!
+Thank you!
+Toggle Map
+Over here!
+Help!
+Thank you!
+[tp:0.03]Did you want to speak to me?[tp:0.3] [/tp][p]Or would you like to check out the log?[/tp]
+[tp:0.03]Do you want to speak to me?[tp:0.3] [/tp][p]Check out the log?[p]Or do you want to watch [clr:FE7388]Toad[/clr]'s movie again?[/tp]
+WATCH MOVIE
+LOG
+TALK
+[tp:0.03]Do you need anything else, [clr:98FC76]Luigi[/clr]?[/tp]
+LOG
+TALK
+LUIGI
+GOOIGI
+DRAW
+TEAM [clr:0AD430]LUIGI [/clr]WINS!
+TEAM [clr:00A3F1]GOOIGI [/clr]WINS!
+???
+B2
+B1
+1F
+2F
+3F
+4F
+5F
+6F
+7F
+8F
+9F
+10F
+11F
+12F
+13F
+14F
+15F
+Hotel Roof
+B1
+B2
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Boilerworks
+Basement
+Grand Lobby
+Mezzanine
+Hotel Shops
+The Great Stage
+RIP Suites
+Castle MacFrights
+Garden Suites
+Paranormal Productions
+Unnatural History Museum
+Tomb Suites
+Twisted Suites
+The Spectral Catch
+Fitness Center
+The Dance Hall
+Master Suite
+Rooftop
+Elevator
