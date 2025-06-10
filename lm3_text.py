@@ -1,7 +1,7 @@
 import struct
 import sys
 
-input_extension = '.dat'
+input_extension = '.bin'
 
 def remap(text):
     mapping = {
@@ -131,7 +131,7 @@ def build(ofile, nfile):
     f.close()
 
     if len(entries) != len(new_text):
-        input("The strings from txt > binary: %d/%d", len(entries), len(new_text))
+        input("Кол-во строк в текстовике и бинарнике не совпадает: %d/%d", len(entries), len(new_text))
         return
 
     for i in range(len(entries)):
@@ -141,7 +141,7 @@ def build(ofile, nfile):
     textStartOffset = 12 + (len(entries) * 8)
 
     f = open(nfile, 'wb')
-    f.write(struct.pack('<III', 0, len(entries), 0))
+    f.write(struct.pack('<III', 9, len(entries), 0))
     f.seek(textStartOffset)
     for i in range(len(entries)):
         entries[i].pos = writewstr(f, entries[i].string) - textStartOffset
@@ -150,14 +150,11 @@ def build(ofile, nfile):
         f.write(struct.pack('<II', entry.id, entry.pos // 2))
     align(f)
     f.close()
-    print('All OK')
-def printUsage():
-    print('USAGE:')
-    print('Extract: tool.py e file.dat')
-    print('Import: tool.py i file.dat file.new')
+    print('збс')
+
 if len(sys.argv) < 2:
-    printUsage()
+    print('Пошёл нахуй')
     exit()
 if sys.argv[1] == 'e': extract(sys.argv[2])
 elif sys.argv[1] == 'i': build(sys.argv[2], sys.argv[3])
-else: printUsage()
+else: print('Пошёл нахуй')

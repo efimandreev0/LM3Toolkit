@@ -10,8 +10,6 @@ def align(f):
     cur = f.tell()
     if cur % 8 != 0:
         f.seek(cur + (8 - cur % 8))
-        
-
 def readFileToEnd(path):
     f = open(path, 'rb')
     f.seek(0, os.SEEK_END)
@@ -20,8 +18,6 @@ def readFileToEnd(path):
     data = f.read(size)
     f.close()
     return data
-    
-
 class FileInfo:
     def __init__(self, f):
         self.pos = f.tell()
@@ -82,7 +78,7 @@ def reimport(originalDict, inputDir, newDict):
         spl = file.replace('/', '\\').split('\\')
         fileIndex = int(spl[len(spl)-1][:4])
         if fileIndex > dict.fileCount:
-            input('file index > dict iteration' % spl[len(spl)-1])
+            input('Индекс файла %s больше, чем итераций в dict' % spl[len(spl)-1])
             exit()
         data = readFileToEnd(file)
         compressed = zlib.compress(data)
@@ -96,14 +92,5 @@ def reimport(originalDict, inputDir, newDict):
         dict.entries[fileIndex] = entry
 
         data_rw.write(compressed)
-def printUsage():
-    print('USAGE:')
-    print('Extract: tool.py e file.dict')
-    print('Import: tool.py i dict.orig dirWithFiles dict.new')
-if len(sys.argv) < 2:
-    printUsage()
-    exit()
-if sys.argv[1] == 'e': extract(sys.argv[2])
-elif sys.argv[1] == 'i': build(sys.argv[2], sys.argv[3], sys.argv[4])
-else: printUsage()
-#reimport('init_o.dict', 'init_patch', 'init.dict')
+
+reimport('init_o.dict', 'init_patch', 'init.dict')
